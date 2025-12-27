@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Name Style Generator ✨</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <div class="main-wrapper">
+    <header class="header">
+      <div class="header-content">
+        <h1>Name Style Generator</h1>
+        <p>1000+ Free Fonts, Styles, Symbols & Emojis</p>
+        <button class="theme-toggle-btn" id="themeToggleBtn">
+          <i class="fas fa-sun"></i>
+        </button>
+      </div>
+    </header>
+
+    <div class="sticky-container">
+      <div class="input-section">
+        <div class="input-group">
+          <div class="input-wrapper">
+            <i class="fas fa-user input-icon"></i>
+            <input type="text" id="nameInput" placeholder="Enter Your Name ❤️🔥" autocomplete="off">
+            <button class="symbol-picker-btn" id="symbolPickerBtn">
+              <i class="fas fa-mug-hot"></i>
+            </button>
+          </div>
+          <button onclick="generateStyles()" class="generate-btn">
+            <i class="fas fa-magic"></i> Generate Style ✨
+          </button>
+        </div>
+        
+        <p class="category-title">Choose your category</p>
+        <div class="tabs">
+          <button class="tab-btn active" onclick="selectCategory('love')" data-tab="love">
+            <i class="fas fa-heart"></i> Love
+          </button>
+          <button class="tab-btn" onclick="selectCategory('gamer')" data-tab="gamer">
+            <i class="fas fa-gamepad"></i> Gamer
+          </button>
+          <button class="tab-btn" onclick="selectCategory('fancy')" data-tab="fancy">
+            <i class="fas fa-sparkles"></i> Fancy
+          </button>
+          <button class="tab-btn" onclick="selectCategory('font')" data-tab="font">
+            <i class="fas fa-font"></i> Font
+          </button>
+        </div>
+        
+        <div class="suggestions-toggle">
+          <button class="toggle-suggestions-btn" onclick="toggleSuggestions()">
+            <i class="fas fa-lightbulb"></i> Show Name Suggestions
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="main-container">
+      <div class="suggestions-section" id="suggestionsSection">
+        <!-- Suggestions will be loaded here by JavaScript when toggled -->
+      </div>
+      
+      <div class="results-section">
+        <h3 class="results-title">
+          <i class="fas fa-star"></i> Generated Styles 
+          <span id="resultsCount">0</span>
+        </h3>
+        <div id="result" class="results-grid">
+          <div class="empty-state">
+            <i class="fas fa-magic"></i>
+            <p>Select a category to see your styled name! Styles generate automatically when you type.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Symbol Picker Modal -->
+    <div class="symbol-modal" id="symbolModal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3><i class="fas fa-mug-hot"></i> Symbol Patterns</h3>
+          <button class="close-modal" onclick="closeSymbolModal()">
+            <i class="fas fa-times"></i>
+          </button>
+        </div>
+        
+        <div class="modal-tabs" id="modalTabs">
+          <!-- Tabs will be loaded dynamically -->
+        </div>
+        
+        <div class="symbols-grid" id="symbolsGrid">
+          <!-- Symbols will be loaded by JavaScript -->
+        </div>
+      </div>
+    </div>
+
+    <button id="scrollToTop" class="scroll-top-btn">
+      <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <footer style="text-align:center; padding:15px; font-size:14px;">
+      <a href="privacy-policy.html">Privacy Policy</a>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
