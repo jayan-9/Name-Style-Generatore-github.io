@@ -9,539 +9,22 @@ let suggestionsData = {
   love: [
     "⋆𐙚:͢I:͢L:͢♡:͢V:͢E:͢y:͢o:͢u𓏧𓅚",
     "►►❇︎˖°M̶o̶m̶-D̶a̶d̶°˖☂ ‹𝟹",
-       "𓆩♡𓆪𝐁𝐚𝐛𝐲𝐠𝐢𝐫𝐥𓆩♡𓆪",
-        "☆꧁☾𝒞𝒽𝑒𝓇𝒾𝓈𝒽𝑒𝒹☽꧂☆",
-        "𝐃𝐚𝐫𝐥𖧷𝐢𝐧𝐠 ☂",
-        "C̶u̶t̶i̶e̶ P̶i̶e̶ 💕⃝🕊️",
-        "𝑃𝑢𝑟𝑒♡𝐿𝑜𝑣𝑒 ☂",
-        "🍂 ░C░u░t░e░  『』𓅚 ✧",
-        "♡♡ 𝐍𝐱 𝐝𝐢𝐝𝐮",
-        "⸝⸝⸝♡⸝⸝⸝ 𝙼 𝙰 𝙷 𝙸⸝⸝⸝♡⸝⸝⸝",
-        "꧁(✿◠‿◠) Ⓟ Ⓡ Ⓘ Ⓨ Ⓐ ✦",
-        "៚𝙻𝚘𝚟𝚎𝚋𝚒𝚛𝚍𝚒𝚎𓅫⋆˙⟡",
-        "ℐ 𝓁ℴ𝓋ℯ 𝓎ℴ𝓊 <3 𝑹 𝑰 𝒀 𝑼",
-        "💕⃝𝙸 𝙼 𝚂𝚘𝚘 𝚂𝚘𝚛𝚛𝚢 ⋆.🥀",
-        "Sмιℓє ᶠᵒʳᵉᵛᵉʳ̤̮ ☺︎",
-        "जय श्री कृष्ण !🪈𓃔",
-        "˖°Magιc°˖ᴸᴼⱽᴱ",
-        "ᯓ★ ‼ ️Ꭾʀɪ፝֟ɴᴄᴇㅤᥫ᭡.",
-        "🐼⃞ᴵᵐ•𝐴 𝑁 𝐼 𝑌 𝐴᭄࿐",
-        "Ꮯн𖹭ꮯσ Ᏼ𖹭ʏ !! (⁠◠⁠‿⁠◕⁠)",
-        "𓆩𓆪 ƒ ř ï ř є ռ 𓆩𓆪💕⃝🕊️",
-        "➶➶ Hᵤ𝓱ᵤ ➷➷",
-        "ꜱᴛᴀʀ☆ʟᴏᴠᴇʀ𖹭",
-        "🦋⃟💗᪲᪲᪲мγ нεαяτ⋆.𐙚✨",
-        "ᴅʀᴇᴀᴍ❇︎ɢ·ɪ·ʀ·ʟ·⋆˙𖹭",
-        "𓆩𝑆𝑤𝑒𝑒𝑡𓆪 ℎ𝑒𝑎𝑟𝑡₊˚·🦋⃟💗᪲᪲᪲",
-        "🫒🎍 P A N D A 🐼",
-        "𝑴𝒂𝒈𝒊𝒄˚⋆˙𝑮𝒊𝒓𝒍𓍯 𐀪𐀪",
-        "Βαвγ❇︎Ɗσℓℓ⋆˙⟡🧸",
-        "˙˚ 𓆩♡𓆪 ˚˙ D A S H A ˙˚ 𓆩♡𓆪 ˚˙",
-        "｡˚⋆ мɪɗηɪɠнτ⋆｡˚☽˚⋆ ℓσνε⋆°•☁︎",
-        "ℒℴ𝓋ℯ*☆ ℬ𝒾𝓇𝒹💕⃝🕊️",
-        "🌊 .·:*¨Ꮮᴏᴠᴇ¨*:·. 💗᪲᪲᪲🌊",
-        "💕⃝Ꭵ ᶫᵒᵛᵉᵧₒᵤ 𖹭࿐",
-        "꧁♡ K H U S B U ♡꧂",
-        "✨✿ ᴋʀɪsᴛɪɴᴀ ꫂ✿ꪶ 🦚",
-        "♥︎♡♥︎Ꮮɪꜰᴇʟɪɴᴇ ┈┈┈",
-        "༒ ℒℴνℯ ✤ U Ｍ♡Ｍ ☆࿐",
-        "✿ ᴍʀ  ʟᴜᴄᴋʏ 亗 ✿",
-        "᪲᪲᪲𓄋 ℓo͟v͟ꫀ ყoυ .ᐟ🅾",
-        "ᰔᩚ┊ᴘʟᴀɢᴀㅤ↬ª⸙",
-        "—͟͞★Ꭾ𝚁ɪͷ֟፝ꮯᴇss 𖹭࿐",
-        "✧══•❁✰🅐🅝🅤✰❁•══✧",
-        "𓍯𓂃𓏧๕ۣۜZΞUS™亗",
-        "么NIEL么☹︎",
-        "🦋⃟𝗣 𝗜 𝗡 𝗞 𝗜⋆˙⟡💗᪲᪲᪲🩹",
-        "🦋⃟ғ̶ᴇ̶ᴀ̶ʀ̶ʟ̶ᴇ̶s̶s̶ ‼ ١٥٧٤𖹭",
-        "🖤⃝ʙʟᴀᴄᴋ ғʟᴏᴡᴇʀ⋆｡˚🥀",
-        "𖹭 Aᴍɪᴛ  亗",
-        "亗 𝑆𝐀𝐥𝐢𝐧【≽ܫ≼】🧸",
-        "ẞʟᴀⅽᴋ 🖤Loꪜᴇᴿ᭄ ༒",
-        "ᴸᴬ♡ꦿ𝑩𝒆𝒔𝒕𝒊𝒂᭄💕⃝💖",
-        "✿Gᴀ֟፝ʀᴜᴜ螿 ‹𝟹",
-        "𝑫 𝒆 𝒂 𝒓  𝑿",
-        "✿Pᴜ֟፝ᴄᴄᴀ⋆⋅☆‹𝟹",
-        "ᰔᩚ┊ᴛɪᴋᴋɪㅤ↬ª⸙",
-        "ℓℓ Ꮮᴏᴠᴇ Ｍᴇ 𓆩💗᪲᪲᪲𓆪",
-        "•𝑄𝑢𝑒𝑒𝑛ꨄ︎",
-        "💗᪲᪲᪲𝙰𝙺𝚄𝙻𝙰ᶫᵒᵛᵉᵧₒᵤ💗᪲᪲᪲",
-        "ʜɪɴᴀᴛᴀ(≧ᴗ≦)",
-        "◦♡°🦋༄ŁΔЯΔ༄🦋°♡◦",
-        "✿˖°Magιc°˖✿ˡᵒᵛᵉ☂",
-        "꩜ Ρ σ σ ј α 𓏧 𖹭࿐",
-        "♡═══ T E J U ═══♡",
-        "๖ۣۜ Pokémon ๖ۣۜ",
-        "☁︎𝑴𝒖𝒍𝒂𝒏☂︎☁︎",
-        "𓆩꩜𓆪𝑳𝒊𝑺𝒉𝒂𝒏𝒈𓆩꩜𓆪🦋",
-        "𝐃𝐚𝐫𝐥𖧷𝐢𝐧𝐠 ☕︎ˎˊ˗",
-        "ᴍr͢⋆˙⟡𝘗𝘌𝘙𝘍𝘌𝘊𝘛⋆˙⟡༒⁰⁹",
-        "🦋͜͢͡𝄟⃝❤Sмιℓє🦅🦋͜͢͡𝄟⃝",
-        "P͢e͢r͢f͢e͢c͢t͢ ١٥٧٤ ꩜࿐",
-        "𝐹𝑜𝑟𝑒𝑣𝑒𝑟 么 𝗠𝗶𝗻𝗲 𖹭 ‹𝟾𝟹",
-        "⧼𖦹⧽ 𝘏𝘦𝘢𝘳𝘵𝘣𝘳𝘦𝘢𝘬𝘦𝘳 ⋆˙𖹭꧂",
-        "‼🧣🕊️ ᴍ ɪ ᴋ ᴀ s ᴀ 𖹭 ࿐",
-        "ҩɴ ₊˚𝐶 𝑟 𝑢 𝑠 𝘩 ✿˚₊࿐",
-        "㋚⋆˙𝑵𝒆𝒛𝒖𝒌𝒐⋆˙㋚ ༻",
-        "𝚰 ♥️ 🐼",
-        "𝚰 ♥️ 😺",
-        "𝚰 ♥️ 🫵🏻",
-        "♡●──卄єαят ♡࿐",
-        "㋚ 𐍂𐌻𐍃𐌼𐌹𐌺𐌻_⋆｡˚💗",
-        "‼ 📨 ᴋ 𖹭 ɴ ᴀ ɴ ✨🪽",
-        "✿Ｓｅｅｙａ..♡🦋",
-        "꩜ｉL͟͟𖹭V͟͟E͟͟  y͟͟o͟͟u͟͟ᐟ✨🪽",
-        "˃ᴗ˂ श्री कृष्ण 🦚🧿",
-        "राधे 𖹭 राधे ‼ 𓃔 ✨",
-        "L⑊𖹭⑊v⑊e⑊ 💖",
-        "╰•★⋆ ̤̮м ̤̮ɪ ̤̮η ̤̮ε ⋆★•╯",
-        "𐙚✨˚M̷̷y̷ E̷̷v̷e̷r̷y̷t̷h̷i̷n̷g̷˚✨𐙚 ツ",
-        "༒₊˚✿ 𝐵𝑒𝑎𝑢𝑡𝑖𝑓𝑢𝑙 𝑆𖹭𝑢𝑙 ✿˚₊࿐",
-        "|•Sᴀᴅʙᴏɪ•|☹︎",
-        "ᵐʸ ‹𝟹 𝑨 𝒏 𝒈 𝒆 𝒍  💕⃝🕊️",
-        "ᴸᴼⱽᴱメ☺︎𝘈 𝘯 𝘪 𝘮 𝘦☺︎⇜🦋",
-        "ᛋ「•❀B̷̷ u̷ t̷ t̷ e̷ r̷ f̷ l̷ y̷ 🦋⃟❀•」ᛋ",
-        "ᵛⁱᵖ₊˚⊹𝑃𝑟𝑒𝑡𝑡𝑦 𝐻𝑒𝑎𝑟𝑡 𐙚₊˚⊹♕",
-        "˗ˏˋ🐾𐙚M Σ ✦ П𐙚🐾ˎˊ˗࿐",
-        "✨🄱 🅁 ◇ 🄶 🄷 🅃♡̤̮🦋",
-        "𐙚✨˚𝘍 𝘳 𝘰 𝘴 𝘵 ✧ 𝘏 𝘦 𝘢 𝘳 𝘵˚✨𐙚 ツ",
-        "❥•Level •❥",
-        "𒆜┋K̾i̾n̾g̾ o̾f̾ H̾e̾a̾r̾t̾s̾┋𒆜☂",
-        "𔓎 𝙱𝚛𝚘𝚔𝚎𝚗 𔓎",
-        "𝗢𝗡𝗘  𝗟☺︎𝗩𝗘",
-        "⋆୨♡୧｡⋆𝕱𝖔𝖗𝖊𝖛𝖊𝖗⋆ ˚⋆୨♡୧⋆",
-        "𓆩ҩᴜᥱ֟፝ᥱɴ𓆪",
-        "ᶠⁱʳˢᵗ ˗ˏˋ𝗟𝗢𝗩𝗘ˎˊ˗",
-        "➳ भाभी˚｡⋆ 𓆩जी𓆪",
-        "ᶜᵘᵗᵉ 𝘉☺︎𝘚𝘚",
-        "⊹˚₊●⃝🦋𝕊𝕀ℕ☺︎𝔹𝕌●⃝🦋₊˚⊹",
-        "⊹˚₊𓆩ιѕнq 🐾 ℓσνє𓆪₊˚⊹ ࿐",
-        "𐙚 ʝααи ♡ ⊹˚₊🐼",
-        "ᴺᴱᵒᴺᴳˡᴼᵂ✶",
-        "✧𝓒𝓱𝓪𝓸𝓼𝓲𝓼✧",
-        "𝖀𝖓𝖎𝖈𝖔𝖗𝖓♞",
-        "｡⋆🐝⃝ᴛ ᥆ ᥊ Ꭵ ˚☽˚᭄｡",
-        "-´-╰⁔╯𝑩 𝑴 𝑾 -`♡´-ᴸ̸ᵒ̸ⱽ̸ᵉ̸ʳ̸",
-        "₊˚✨ℛσмєσ⊹˚₊𐙚࿐",
-        "ᴵᵐ᭄ᴏɴ ᴮˢᵗ࿐",
-        "˗ˋˏ°♡ ℍ𝕒𝕥𝕖 ♡°ˎˊ˗",
-        "𓆑•𝕄𝕌𝕊𝕂𝔸ℕ•💕🐝",
-        "🦋⃟sᴜᴄɪᴇᴅᴇ ⁹🪄⁹",
-        "🌸⃟𝐵 𝑢 𝑡 𝑡 𝑒 𝑟 𝑓 𝑙 𝑦₊˚·✨🦋",
-        "𝔸 𝕓 𖹭 𝕦 𝕥 𝕞𝕖 💗᪲᪲᪲",
-        "༄☆⃘⃚⃤⃝ 𝑪𝒖𝒕𝒊𝒆 𝑷𝒊𝒆 ☆⃘⃚⃤⃝༄",
-        "᭄𝐉𝐀𝐈 ㋚ 𝐌𝐀𝐇𝐀𝐊𝐀𝐋 ⋆˚࿔⊹ ࣪𓆗",
-        ". ⋆｡˚ 𓂃 𝐿𝑜𝑣𝑒 𝑆𝑡𝑜𝑟𝑦 ༉‧₊˚✧",
-        "𖥔𓂃 𝑫 𝑺𝒎𝒊𝒍𝒆 𓂃𖥔",
-        "༘𝐻𝑒𝑎𝑟𝑡𝑏𝑒𝑎𝑡 ༘",
-        "L 𖹭 v e",
     "☁️𝒮𝓌𝑒𝑒𝓉 𝒞𝓁☁️𝓊𝒹☁️"
   ],
   gamer: [
     "𝚾-Ꮮᴏʀᴅ 亗",
     "ɪᴍ • F ᴀ ɴ ɪ •々",
-    "៚ɪ ᴛ ᴀ ᴄ ʜ ɪ ❶❶", 
-    "𝑴ꫝ𝑹𝑪𝑶 모 ꤪꤨꤪ",
-    "Ƭ͢ɴ ⋆ｂａｂｕ☂",
-    "ᴀɴᴋᴜsʜ ᶠᶠ",
-    "╰‿╯ ϟ 𝚉 𝙴 𝙵 𝚁 𝙾 ✯꧂",
-    "𝐹 𝐿 ⚡︎ 𝑆 𝐻 ⁰⁰¹",
-    "ᏢᴀɢᴀᏞ  ϻ❿ ×͜×",
-    "Ᏸ2Kㅤ모",
-    "╰‿╯𝗦𝗻𝗶𝗽𝗲𝗿︻デ═一✷✷",
-        "ANKUSH ff",
-        "L J ♦ Z E F R O *$",
-        "F L ♦ S H wi",
-        "PAGAL M@ x$",
-        "Q2K 모",
-        "S Super_デー**",
-        "N E X U 모",
-        "Ƒɪяε𒆜Ԛυεεηᯓ★",
-        "乂·˚₊𝙱𝚕𝚘𝚘𝚍₊˚·乂 ⁹⁹⁹",
-        "➳ 𝑲𝒊𝒍𝒍𝒆𝒓 𝑮𝒐𝒅 ˚⊹𓆩☠𓆪ꪾ",
-        "𒆜𝓡𝓮𝓭𝓥𝓮𝓷𝓸𝓶 ˚⊹࿐⁴⁴⁴",
-        "Oɴʟʏ z!xu 모!",
-        "么 𝑩𝒂𝒅-𝑿",
-        "ঔ ⓃⒾⒼⒽⓉ⁹⁹⁹",
-        "ᴡ ʜ ɪ ᴛ ᴇ 4 4 4  ✓",
-        "░H҉A҉C҉K҉E҉R҉░ ⨳",
-        "么˙⋆𝕯𝖊𝖒𝖔𝖓𝖎𝖈⋆˙⟡࿐ ➆➆➆",
-        "G亗O亗J亗O ☑",
-        "꧁࿇ ＲＡＶＩ Ｘ࿇꧂ᶠ̸ᶠ̸",
-        "ᴍr͢ 𖦹ᴘ ☕︎ˎˊ˗",
-        "𓆩𝖐𝖎𝖑𝖊𝖗𓆪 ☠ 𓆪ᛖñᚱ𓆩",
-        "Xx𝘉☺︎𝘚𝘚xX",
-        "★ᴄ͢͢͢ʀɪᴍɪɴᴀʟ⁰⁰⁷★࿐",
-        "༄Zx  Don 01",
-        "꧁✧ 𝘟 𝘠 𝘙 𝘖 ࿐",
-        "▄︻デ 𝒫𝒽𝑜𝑒𝓃𝒾𝓍 ═━一",
-        "『Dx ᴰᵃ͢͢͢ᵛⁱˡ ࿐♛",
-        "ʟ ᴇ ᴠ ɪ ⚡︎ ➇➈",
-        "✦˖° B A D S H A H °˖✦亗",
-        "么Ꭲ ɪ ᴛ ᴀ ɴ╰⁔╯₄₇",
-        "G̸o̸d̸ 𝟕𝟕𝟕",
-        "Ꮢᴅx_ᴘʀᴏ ‹𝟹",
-        "𝛐𝛈_𝙱𝚛𝚘𝚔𝚎𝚗 모",
-        "ᴵᵐܔSHAWON࿐ᴮᴼˢˢ",
-        "🅥ᎮᴀɢᴀᏞ メ ᴹᵖ⁴⁰",
-        "༄『ᴵᵐ』• Zon™×͜×࿐",
-        "sᴀɪᴍメɪɴɢ༻",
-        "ᴹᴿ°᭄★Pʀ፝֟ɪɴᴄᴇ࿐⓿❼",
-        "Cᵒᵒˡジ 刀ﾘﾒ 乄",
-        "—͟͞͞✰ᗷᒪᗩᑕK ꩜࿐",
-        "Ƭ͢ʀ  J ᴇ ʀ ʀ ʏ 모",
-        "༆☼Bօʀռ2ӄɨʟʟ☼༺",
-        "𝛘⋆˙𝛈𝛆𝛐𝛈⋆˙࿐⁰⁰⁷",
-        "ᶦᶰᵈ᭄ Onyx 亗",
-        "𝖙𝖔𝖝𝖎𝖈 𝖍𝖚𝖓𝖙𝖊𝖗 ╰‿╯",
-        "༒·˚ズ𝑷𝒔𝒚𝒄𝒉𝒐 ·˚⸙༒",
-        "冬┊Sꫝ፝֟፝ ɴᴅɪᴘㅤ모",
-        "▼☁︎▼Ρ Α H Α Я Ι.⋆࿐★",
-        "ĐΔŖК ᯤ Ｌｏｒｄ ╬",
-        "𝔱𝔦𝔱𝔞𝔫 𝔤𝔞𝔪𝔢𝔯 ⁹⁹⁹",
-        "ᴡɪꜰi͢ ᯤ 𝘎𝘢𝘮𝘦𝘳 모",
-        "ᶦᶰᵈ✿Gᴀᴍᴇʀ࿐",
-        "𝙰𝙻𝙾𝙽𝙴 𝙱𝙾𝚈 ×͜×",
-        "Ꭷᵇˡᵃ̸ᶜᵏ⟅ S̴ h̴ a̴ d̴ o̴ w̴ Ⓥ",
-        "ᴹᴿ. Ɗ Ξ V Ι ᒪ ✤ ❶❹❸",
-        "𐀪 ꫝ𝙻𝙾𝙽𝙴 𝙱𝙾𝚈 ×̷̷͜×̷",
-        "亗 𝐋 𝐔 𝐂 𝒀 ‼ ❾❾❾",
-        "ꭷꭾܔ𝐂ʀɪᴍɪɴᴀʟ⓿❼࿐",
-        "ᎷΛƦᏟO ☂ 𒆜",
-        "Ꭰꫝɴɢᴇʀ メ Ꮓᴏɴㅤ모",
-        "ક̶ર̶ન̶ ᭄",
-        "▄ʜᴇᴀᴅsʜᴏᴛ▄ ☠",
-        "ⓥ Ɗᴏ σʀ Ɗɪᴇ ??",
-        "ᯓᏒꫝᎥ នтαʀ 모",
-        "༒●⃝𝙽𝙸𝙶𝙷𝚃𝙼𝙰𝚁𝙴●⃝༒",
-        "𝓲ꪑ〲𝘛 𝘏 𝘈 𝘒 𝘖 𝘙㋚⁹⁹⁹⁺࿐",
-        "𒆜┊Ɗ Ξ Κ U҉┊:) 𒆜",
-        "꧁★ H̷ I̷ t̷ l̷ e̷ r̷ ?࿐",
-        "𓂃 ฿Ⱡ₳ⱫɆ 𓂃☽",
-        "—͟͞͞★ Αακαѕн ✓",
-        "꧁𓊈ｂａｂａ𓊉꧂",
-        "⚔ L〵E〵G〵E〵N〵D〵ᯓ⚔",
-        "⚔ ᴀᴄᴛɪᴏɴ⋅⋆❹❷",
-        "ᴾᴋ᭄ᴷᶦᴸᴸཇᴿ⟡࿐⁷⁷⁷",
-        "अ̶हंक̶।र̶ ⚕... ?...",
-        "ᴬᵏ᭄ꫝʟօռɛ ×̷̷͜×̷  ??",
-        "S𝚝𝚊𝚛✬Ᏼʟᴀᴅᴇ✓❾❾❾",
-        "★ɴɪɢʜᴛ—͟͞͞✰.Ꮐᗩᗰᗴᖇ 亗",
-        "모Ꭾʀɪмᴇ_ꫝʏᴜꜱʜ ╰‿╯",
-        "ᴮᴳܔ〖ⓌⒺⓁ〗࿐ᴮᴼˢˢ",
-        "ᴹᴿ°᭄〄 𐍆 𐌹 𐍂 𐌽 𐌾 𐌹 ࿐",
-        "亗 𝑩𝒂𝒅-𝒈𝒊𝒓𝒍 →ღ",
-        "░Ｂ░Ｏ░Ｓ░Ｓ░",
-        "☻┊ᴊᴏᴋᴇʀ  ˣ‿ˣ",
-        "ΜΛЯΙ☯",
-        "ᴮᴼˢˢܔZᴇᴇsʜᴀɴ࿐",
-        "×͜× ᴋɪʟʟᴇʀ ᴮᵒˢˢ",
-        "Cᴾ〲ᴹᵃᶠⁱᵃ࿐ⒻⒻ",
-        "𒆜𝕽𝖆ηØℑɨt°™꧂",
-        "Ꮶɪɴɢ Ꭷʙɪᴛᴏ 亗",
-        "/  亗 𝑩𝒂𝒅-𝒃𝒐𝒚 →ღ",
-        "〖°B҉O҉S҉S҉°〗",
-        "ᴀ·ᴡ·ᴍ·๛𐌺𐌹𐍊𐍊𐌴𐍂 ✓",
-        "𓄂Eㄨㄗ E R ㄒ",
-        "亗『๛ΚΪИƓ๛』亗",
-        "𓄂𝑊𝑜𝑙𝑓 ℎ𝑢𝑛𝑡𝑒𝑟࿐𝟏𝟏",
-        "ᴛ ʀ ɪ ɢ ᴇ ʀツ",
-        "ηɪηנα нυητεя ⚔",
-        "꧁❀ 𝘛𝘦𝘯𝘥𝘶 ❀꧂",
-        "ꪎ⁔ꪎ¢яαzч вøчꪎ⁔ꪎ",
-        "W̶ E̶ A̶ K̶ H̶ E̶ R̶ O̶᭄",
-        "ᶜᵃᵝ 𝙶 𝙾 𝙹 𝙾᭄ :)",
-        "Ｂｌｏｏｄ- 𝚾",
-        "꧁☯︎L̸ᎧKIϟᏆᎧꨄ︎꧂",
-        "ɢs͢ H̶e̶a̶r̶t̶b̶r̶e̶a̶k̶e̶r̶ ?? 𝟎𝟗",
-        "ηɪηנα вσγ ✓",
-        "꧁༒‼ѕυηηγ‼༒꧂⁷⁸⁶",
-        "╰‿╯┊𝑼 𝑪 𝑯 𝑰 𝑯 𝑨┊𓂀",
-        "Ꭾʀᴏ Kᴇɴᴢʏ Ⓥ",
-        "⌯⌲『sʜʀᴋ』ᴮᴬᴰʙᴏʏ 亗",
-        "ᴹᴿメ𓄂B E A S T Ⓥ",
-        "ᴬᴷ ʜᴇʀᴏ ☆",
-        "ᴸᴼⱽᴱ ✰ ᴋ 𖹭 ɴ ᴀ ɴ ☂ ࿐",
-        "𝑭 𝑰 𝑭 𝑨 ☯ Ꮐᴀᴍɪɴɢ ᯓ☆",
-        "H⨳e⨳x⨳ W⨳a⨳r⨳r⨳i⨳o⨳r⨳",
-        "༒₊˚ ·✰𝚂 𝚑 𝚊 𝚍 𝚘 𝚠 ✰·˚₊༒",
-        "ᴵᵐܔＲ Ａ Ｂ Ａ Ｒ Ｉ࿐ᴮᴼˢˢ",
-        "⚠ ᴅ ᴇ ᴀ ᴛ ʜ - x",
-        "𝚾- L̷̷u̷c̷y̷  모",
-        "༒✰ 🅛🅤🅒🅚🅨  ✰༒",
-        "፠ ๛ʙʜᴀᴋɪ ፠°✦⁹⁹⁹",
-        "𝖋𝖋 ꧁✯ ᴅ ᴇ ᴀ ᴛ ʜ✯꧂",
-        "⋆.𐙚㋚ 𐌱𐌻𐌳 𐍃𐌻𐌽𐍄𐌻_",
-        "⧉𝐵 𝑢 𝑡 𝑡 𝑒 𝑟 𝑓 𝑙 𝑦⧉𝐿𝑜𝑣𝑒𝑟",
-        "𐌾𐌰𐌼𐌹𐌽𐌾 亗",
-        "𓅈 E a g l e ᴳ̸ᴬ̸ᴹ̸ᴵ̸ᴺ̸ᴳ̸ 모",
-        "𝙶 ⌔𝚕𝚍 ⓥ",
-        "N͢G͢ ☠ H̾ e̾ ⌯ r̾ t̾ ☯࿐",
-        "—͟͞͞✗ 𝐍 𝐢 𝐠 𝐡 𝐭 𐩺 𝐆 𝐨 𝐝 —͟͞͞✗𓂃✍︎",
-        "⁴ˣ ⸙ Pʀɪᴍᴇ 모...",
-        "𝗣 𝗥 ☯",
-        "𝖏𝖔𝖐𝖆𝖗 🂱",
-        "𝘛𝘳𝘶𝘦 ☕︎ 𝘎𝘢𝘮𝘦𝘳 ⁹⁹⁹",
-        "˗ˏˋ𓆗𓆘हर हर महादेवˎˊ˗ ૐ",
-        "☘٨ⓖⓐⓜⓔⓡﮩ٨모ﮩ٨ـ ᵍⁱʳˡ",
-        "𝘛𝘐𝘔𝘌 𝘗𝘈𝘚𝘚 ☕︎ˎˊ˗",
-        "『 ʲᵒᵏᵉʳ』➪ 𝕶𝖎𝖑𝖑𝖊𝖗 ⊹ ×̷̷͜×̷",
-        "𝚂𝙾𝚁𝚁𝚈  ̤̮𝙱𝚁𝙾₊˚✞",
-        "✓ＯＰ? LEGEND ★࿐",
-        "ᵍᵒᵈ 🂱 Ꮐᗩᗰᗴᖇ˚｡⋆𓄂𓆃",
-        "—͟͞͞⚠N̷̷O̷̷ 𝖕𝖗𝖔𝖉𝖑𝖊𝖒° ×̷̷͜×̷",
-        "ᗩᏞᗝᏦ ⓿❼",
-        "𝙰𝙻𝙾𝙽 𝙱⏱𝚈",
-        "𝘉⏱𝘙𝘐𝘕𝘎",
-        "░A░N░U░P░",
-        "I M • R U S H E R ™ 𓅈",
-        "ͥ ͣ ͫ•A r i s ☂ ¹⁸⁺",
-        "𝓲ꪑ〲N๏ʙɪᴛᴀ☆⁹⁹⁹⁺࿐",
-        "❦𝑨𝒏𝒖᭄𒆜ᵝᵒˢˢ",
-        "꧁⊹˚☯⊱𝑻𝒐𝒙𝒊𝒄 𝒉𝒖𝒏𝒕𝒆𝒓⊰☯˚⊹꧂",
-        "メᗪᴀᴅᴅʏ☆ᑕᴀᒪᒪɪɴGメ",
-        "fypツ",
-        "G̸Aᴍɪɴɢ ᶠ̸ᶠ",
-        "╰ᴼ̸ᴳ̸╯☫ Z Ξ X U ⁶⁹",
-        "༒☆ 𝑱 𝒊 𝒏-𝒘𝒐𝒐 ☆࿐❾⓿",
-        "⟡→N̸͟͞ U̸͟͞ L̸͟͞ A̸͟͞ ꫂ←⟡",
-        "Ͻ ꫝ Ρ Τ Α Ι N͢ ♾",
-        "Y⨳ U⨳ J⨳ I⨳ ࿐⁶⁷",
-        "៚M͢☯ηstεr 7ꪎ",
-        "𐍃 𐍁 𐌺 𐍁 𐌽 𐌻_??",
-        "⟡→⧉m͢ꫝd͢ara⧉←⟡",
-        "𝚻 𝗥 𝚶 𝚴 ! 𝚾_??",
-        "𓆩⧉𓆪𐍂 𐌰 𝚅 𐌰 𐌽 ꪎ⓿",
-        "꧁𓊈𒆜🄼 🅄 🄽🄰 🅇_⛧",
-        "ɪᴍ᭄𝔾 𝕙 𝕠 𝕤 𝕥シ᭄",
-        "㋚ 𐌱𐌻𐌳 𐍃𐌻𐌽𐍄𐌻_??",
-        "‼ 𐌶 𐌰 𐍊 𐌹 𐌼 ★ 𝟵𝟵𝟵",
-        "༄𖣠 ꀘꋬ ꒒ ꀤ ꐞ ꀎ ꁅ ⚡ 𝟯.𝟬",
-        "亗 𓆩𝗣𝗮𝗶𝗻𓆪 ✪ 𝟬𝟬𝟳",
-        "𖣠 вατ-мαη 〄",
-        "ᴬᴷ ☑ ℓ υ ƒ ƒ γ 𖥔∞𖥔",
-        "᭄ᵀʳⁱᵖˡᵉ⁻ˢʷᵒʳᵈ ꪶ⚔ꫂ",
-        "༒ 𝙆𝘼𝙉𝙀𝙆𝙄 𝙆𝙀𝙉 𝙏𝙊𝙆𝘼 ༒",
-        "⓿❽ ĺ υ ċ ƙ γ 𓅆 ᴳ̸ᴬ̸ᴹ̸ᴱ̸ᴿ̸",
-        "☠︎ Ꭲʀʏ么Aɢᴀɪɴ࿐",
-    "N Ξ X U 모"
+    "៚ɪ ᴛ ᴀ ᴄ ʜ ɪ ❶❶"
   ],
   fancy: [
     "ꫝ𝛈𝛋𝛖sʜ  ??",
     "𝙲𝚁𝙰𝚉𝚈 βσყ ×͜×",
     "आदिवासी ෴",
-        "knxush ??",
-        "CRAZY Boy x$",
-        "smearf A",
-        "TR VUWS A",
-        "𝙲𝚁𝙰𝚉𝚈 βσყ ×͜×",
-        "आदिवासी ෴",
-        "ᛖᚱ Vιяυѕ ⚠",
-        "༒ ⚝メ𝖋𝖆𝖓𝖙𝖔𝖒メ⚝ ༒",
-        "⋆─𓄂ͶØT乂ᵍᵒᵒᵈ×᷼×",
-        "▶●── ̤̮BOY───▶●",
-        "𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 🅾",
-        "꧁☆*κɪɴɢ*☆꧂",
-        "𓆩☠𓆪ᛖñᚱ𓆩☠𓆪",
-        "『W』𓄀Zxn𓏧☫",
-        "𝓛 𝓪 𝔃 𝔂 𓏲Ⓡ ☃︎ Ⓤ Ⓝ Ⓓ‼",
-        "B么CKꪶꫂ",
-        "𝐀𝐥𝐞𝐫𝐭 ⧽⚠ˎˊ˗",
-        "ＬＡＳＴ⚠︎ ＷＡＲＮＩＮＧ",
-        "🅼︎ʏ ٭➣🅻︎ɪғᴇ ➻❥🅼︎ʏ✬͢➣🆁︎ᴜʟᴇs !",
-        "🦋⃟ᴠͥɪͣᴘͫ✮⃝.",
-        "◥꧁དℭ℟Åℤ¥ཌ꧂◤",
-        "ғ̶ᴇ̶ᴀ̶ʀ̶ʟ̶ᴇ̶s̶s̶ 𒆜",
-        "⚔️⚔やiͥᴢzͣaͫᴳᵒᵈ⚔⚔️",
-        "ͥ ͣ ͫ ᴮᴬᴰʙᴏʏ 𓅈",
-        "╰‿╯【Jⁿᵗᵒⁿⁱᵒ】╰‿╯",
-        "▷ ◉──────02:12 ♡.",
-        "??┊Μαяѕнмαℓℓσω┊ ??",
-        "ᴛᴛᴏﾒ፝֟ɪᴄﾑ 𒆜",
-        "Ꭾꫝɴ ×͜×",
-        "ᴛᴍ᭄ᴛᴏﾒ፝֟ɪᴄo ╰‿╯",
-        "ＣＨＯＲＩ ☂ＰＡＮ☂",
-        "複| ᴋʏᴀᴍɪ ཀ‿ཀ",
-        "៚𝐆𝐢𝐫𝐥ꨄ",
-        "ＩᎷ 𝙻𝚊𝚣𝚢 𝚋𝚘𝚢✿",
-        "★нσηєу★࿐",
-        "៚𝐁𝐨𝐲 ꨄ",
-        "—͟͞͞🥥 🅲🅾🅲🅾 🥥",
-        "ㄥ刀几𒈞口爪ム尺𒈞",
-        "╰‿╯〖𝟗𝟓〗VΘᒪK ☬༒",
-        "ᎪᴍɪᴛㅤᎥꜱㅤᏰᴀᴄᴋ",
-        "Տ⚔ᗩ⚔ᗰ⚔ᑌ⚔ᖇ⚔ᗩ⚔I ★",
-        "❥︎ＱＵＥＥＮ ╰🐼╯",
-        "✨τσχɪc 🦋⃟ησνα ‼",
-        "ꪶꫂ 𝔽𝕒𝕚𝕣𝕪 𝕭𝖗𝖊𝖟𝖊𝖊 🦋⃟ ☂",
-        "ɪᴍ᭄ꦿNaddyシ",
-        "ꪶꫂ ☯︎L̸ᎧKϟᏆᎪꨄ︎ ☂🦋⃟💗᪲᪲᪲",
-        "ｉ ˡᵒᵛᵉ ☂‹𝟹",
-        "⧬☆⋅⋆ ─🆂🆄🅺🅃🅃─ ⋆⋅☆⧬ 🍂",
-        "🖤⃝ΜΛΝϽΝΝΥ ࿐★",
-        "ᗪᖇᗩᏀᗝᑌ╰‿╯ 🅟🅛🅤🅢 🖤⃝ME࿐",
-        "ᴍr͢ ΡΞЯƑΞϽΤ 🪄",
-        "⟆Ⱨ¥Ƥ₣Ɽ ⚔ ₲ⱧØ₴₮ ⟅ 😈",
-        "—͟͞͞✿ ZΞHΞЯ ⩠ 👒",
-        "ᴬᴳ•『ᴀssᴀsɪɴ』•𐀪𐀪࿐",
-        "ᴠͥɪͣᴘͫ ╬ I Z A N A M I ╬",
-        "Ɓ❷Ⓚ⨳༊Ɓ࿊ŋƳ₂ᵏᶦᶦ࿐࿆",
-        "☠︎ ⚡Ꭲʀʏ么Aɢᴀɪɴ࿐,",
-        "𝘋⚠𝘕𝘎𝘌𝘙 𝘡𝘖𝘕𝘌",
-        "ᴹᴿメZA R Y 𓆩☠𓆪",
-        "•| кєяνzᯓ⨳",
-        "Iиƒεяиυм™",
-        "⧼S⧽⧼⧼𖹭⧽⧼⧼u⧽⧽⧼l⧽⋅⋆❇︎ 👀",
-        "꧁☬⋆mad༒jokar⋆☬꧂",
-        "🅗🅐🅟🅟🅨 🅑🅘🅡🅣🅗🅓🅐🅨 ⋆ꫂ❁⋆",
-        "ᴹᴿメ𓄂B E A S T メ 𝟏𝟎",
-        "™ ᴅɪᴀʙʟᴏ ✞",
-        "╰‿╯ ϟＴＥＲＲＯＲ ϟ 亗",
-        "ʜᴇʀᴏ ☆『LEGEND』☆",
-        "◦ ૐ नमः ⚐ꔪ",
-        "༝༚༝༚",
-        "Rice 🌾 S҉ N҉ ☃︎ W҉",
-        "♡︎NOEMI♡︎♥︎❥𑁍㋛",
-        "‼ 🐉 V 𝟏 🪄𓆌",
-        "Gッᴛ ᥆ ᥊ Ꭵ ᥴ ᥆ ‼ ಠ⁠_⁠ಠ",
-        "㋚ ΜΛΧΧ ⟡⟡",
-        "꧁✧⟆ 𝑆 ℎ 𝑎 𝑑 𝑜 𝑤 ⟅✧꧂",
-        "🦋⃟メꜱ ᴇ ᴄ ʀ ᴇ ᴛ メ࿐",
-        ">Ｙｕｋｉ<",
-        "匚👀ㄥ🧣",
-        "彡⛧么🅢🅤🅝🅢🅗🅘🅝🅔么⛧彡",
-        "×º°”˜`”°º×𝑀𝒶𝓎𝒶×º°”˜`”°º×",
-        "๖ۣۜT๖ۣۜh๖ۣۜu๖ۣۜn๖ۣۜd๖ۣۜe๖ۣۜr 么",
-        "Я α ɠ ε ρ ℓ υ ѕ ε 『✌︎︎』❤️‍🔥",
-        "ᴵᵐ᭄ᶜᵒᵛⁱᵈ¹⁹",
-        "ᴍ𝚨x✗",
-        "*κɪɴɢ* Β ᒪ Λ Ɗ Ξ 🦅",
-        "⦏B̂⦎⦏î⦎⦏r̂⦎⦏t̂⦎⦏ĥ⦎⦏d̂⦎⦏â⦎⦏ŷ⦎ 🎉",
-        "ᯓ𝙈 𝙖 𝙜 𝙣 𝙚 𝙩 ⋐",
-        "ꫝ𓅈 E a g l e𓏧 亗",
-        "𐙚˚⊹ѕκυℓℓ𓄯νσℓταɠε ☆ˎˊ˗࿐",
-        "𝗚𝄂𝄁𝗼𝄀𝄁𝗹𝄀𝄁𝗱𝄂𝄀𝗲𝄂𝄀𝗻 -ˋˏꫝ𝛖𝛑𝛂ˎˊ˗",
-        "B r ◇ i g h t",
-        "ꜱ p 𓏲 r k⟡",
-        "𝑺 𝒉 𝒂 𝒅 𝒐 𐚁 𝑩 𝒐 𝒚",
-        "🦋 🅑 🅖 🅗 🅣 ♡࿐",
-        "𝙈 𝙤 𝙤 𝙣 𖠿 𝙁 𝙡 𝙤 𝙬˚｡☁︎ ｡˚☽˚｡",
-        "LEGEND °ⓅⓇⓄ°",
-        "ϟ A♡rα ( ˆ⌣ˆ )",
-        "⚜ ₹ｕｐｅｅ ⚜",
-        "ᵍᵒᵒᵈ ✌︎︎ˎˊ˗ 𝐷𝐴𝑌 ☻",
-        "ᗷᒪᗩᑕK 𝟕𝟕𝟕",
-        "ᑭᏞᗩᎩ ᗷ☺︎Ꭹ 𐀪𐀪",
-        "🐼⃞ᴵᵐ•ʟᴜᴄɪꜰᴇʀ᭄࿐",
-        "𝙇𝙐𝘾𝙆𝙔 𒈔",
-        "メ𓄀𝖋𝖎𝖌𝖍𝖙𝖊𝖗ˎˊ˗メ",
-        "●⃝✨𝙿𖦹𝙺𝙴𝙼Ø𝙽●⃝✨",
-        "ꪎꪎ┊✿┊ ɴ ᴀ ʀ ᴜ ᴛ ᴏ ᭄",
-        "𓄂𝘒𝘐𝘕𝘎ﮩﮩ٨ـ♚",
-        "ḉ✺✺ℓ ‼",
-        "ⁱᵃᵐ|ꀤ₥𒆜",
-        "ᴮᴼˢˢܔ°ⓅⓇⓄ° ࿐",
-        "शैत̶।‌‍‌‍‍न̶‍‍‌‍ 👹",
-        "𒆜ᎷΛƦᏟOོ",
-        "✧Nɪɢʜᴛƒαʟʟ✧",
-        "𓂀𝓟𝓱𝓸𝓮𝓷𝓲𝔁𓂀",
-        "益 | Sקσяᴛ т𝖾αм ♾",
-        "☯ 𝗗𝗛𝗔𝗥𝗠𝗔 𝗥𝗔𝗞𝗦𝗛𝗔𝗞 ☯",
-        "♡⃘⃚⃤⃝ 𝐄𝐧𝐜𝐡𝐚𝐧𝐭𝐞𝐝 𝐊𝐢𝐬𝐬 ♡⃘⃚⃤⃝",
-        "៚क̶र्म̶। ꫂ∞ꪶ",
-        "᭄𝐂𝐀𝐑𝐑𝐘ツ",
-        "亗 𝗰𝘂𝗿𝘀𝗲 ⚡︎ ‼ 〄",
-        "𝄂𝄂𝄃Ｍａｒｓｈａｌ𝄃𝄂𝄂𝄃࿐",
-        "ᴹᴿ°᭄ 🅄ᶻᵁᵐᵃᴷᴵ 七𖣠",
-        "𖣠 𝙇𝙀𝙂𝙀𝙉𝘿_𝙊𝙁_𝙕𝙊𝙍𝙊 ツ",
-        "♕⃝⃤⃘ 𝐏𝐫𝐢𝐧𝐜𝐞𝐬𝐬 ♕⃝⃤⃘",
-        "⋆˙⟡ 𝐻𝑒𝑎𝑟𝑡 𝑊ℎ𝑖𝑠𝑝𝑒𝑟𝑠 ⟡˙⋆",
-        "☁︎︎༺ 𝑺𝒘𝒆𝒆𝒕 𝑬𝒎𝒃𝒓𝒂𝒄𝒆 ༻☁︎︎",
-        "❦⃟༄ ▰▱𝓕𝓸𝓻𝓮𝓿𝓮𝓻 𝓜𝓲𝓷𝓮 ▰▱☽༉‧₊˚✧",
-        "🫧˚ ༘ 𝓛𝓸𝓿𝓮𝓵𝔂 𝓓𝓪𝔂 🫧˚ ༘",
-        "༄ᶦᶰᵈⁱᵃ᭄🇮🇳 𝙹𝙰𝙸 𝙷𝙸𝙽𝙳 ☬",
-        "𓆩‼ 𝙃𝙄𝙉𝘿𝙐𝙎⚐𝘼𝙉𝙄 ‼𓆪",
-        "°❈° ≫ 卄卂尺ᗪ 山〇尺Ҝ ≪ °❈°",
     "ᛖᚱ Vιяυѕ ⚠"
   ],
   font: [
-        "ᴅ ɪ ᴍ ⌔ ɴ ᴅ",
-        "𝐶 🂱 𝑅 𝐷",
-        "ᝰ 𝘢 𝘷 𝘦",
-        "𝘚𝘗ΞΞ𝘋",
-        "ꫝυяα",
-        "𝙶 ⌔𝚕 𝚍",
-        "✄⌁C┈U┈T⌁",
-        "𝑾 𝒂 ϟ 𝒕",
-        "𝘉 ⧉ 𝘟",
-        "L 𖹭 v e",
-        "𓄂𝐾 𝑖 𝑛 𝑔",
-        "F l ✿ w e r",
-        "ꜱ ᴛ ★ ʀ",
-        "𓆩ⓌⒾⓃⒼⓈ𓆪",
-        "△ 𝘕 𝘎 𝘌 𝘓",
-        "ʟ𖦹𖦹ᴘ",
-        "𝑹 ⟡ 𝒀 𝑨 𝑳",
-        "ʜ 𓂋 ʟ",
-        "ᴜ·ᴍ·☂ʀ·ᴇ·ʟ·ʟ·ᴀ·",
-        "S i n g 𐀪 e",
-        "匚卄丨几乇丂乇",
-        "W͢ a͢ ⌲ V͢ e͢",
-        "Μ Λ Ɠ Ν ⋐ Τ",
-        "ꜱ ᴛ ⏱ ᴘ",
-        "𝑪 𐚁 𝒘 𝑩 𝒐 𝒚",
-        "𝙈 𝙤☽ 𝙤☽ 𝙣",
-        "Ή ☺︎ Ρ Ρ Υ",
-        "𐌱 𓄯 𐍂 𐌽",
-        "𝑩 𖤛 𖤛 𝑴",
-        "𝑅 ⸙ 𝑐 𝑒",
-        "𓃠 𝚗 𝚒 𝚖 𝚊 𝚕",
-        "ᵈ ◦ ᵃ ᵗ",
-        "𝐃𝐚𝐫𝐥𖧷𝐢𝐧𝐠",
-        "𝑈 ♞ 𝐼 𝐶 🜚 𝑅 𝑁",
-        "ᴡɪꜰi͢ᯤ",
-        "𝗣 𝗥 ☯",
-        "ズ υ η",
-        "s ς 𔓎 г у",
-        "ˢ ˡ ᶻ 𝗓 𐰁 ᵖ",
-        "Simple",
-        "ℍ𐚁𝕋",
-        "₹ｕｐｅｅ",
-        "ṃıяяȏя",
-        "𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 🅾",
-        "𝄃𝄃𝄂C͢𝄂𝄀𝄁O͢𝄃𝄂D͢𝄂𝄃",
-        "𝗗⚠𝗡𝗚𝗘𝗥",
-        "𝑩 𐦍 𝒕 𝒕 𝒆 𝒓 𝒇 𝒍 𝒚",
-        "𝘙 𝘪 𝘨 𝘩 ✓",
-        "乂 r͓̽ o͓̽ n͓̽ g͓̽",
-        "Ｃ ｌ ☁︎ ｕ ｄ",
-        "𓂃w r i t e𓂃✍",
-        "𝑆 𝑁 ☃︎ 𝑊",
-        "Ⓡ Ⓞ Ⓤ Ⓝ Ⓓ",
-        "𖠿 𝙾 𝙼",
-        "⚐ 𝕃 𝔸 𝔾",
-        "♫ υ ѕ ɪ c",
-        "𐀪 𝑒 𝑜 𐀪 𝑙 𝑒",
-        "𝗗 𝗘 ☠ 𝗧 𝗛",
-        "S̷ A̷ ☹︎",
-        "Ｃ 𓃾 Ｗ",
-        "A̴ ➶ ➶ O̴ W̴",
-        "ᴛ ʀ ɪ ɢ ⁍ ʀ",
-        "🄲 🂱 🅁 🄳",
-        "N ➀ M B E R",
-        "𝙲 ☕︎ 𝔣 𝔣 𝔢 𝔢",
-        "ċ ο в 𓆗 α",
-        "𝐿⟲𝑎𝑑𝑖𝑛𝑔",
-        "Ѕ ⛷ Ŗ Ϝ",
-        "𝑃𝐿▶𝑌",
-        "𝚆 𝚑 ☸ ☸ 𝚕",
-        "𝐹 𝐿 ⚡︎ 𝑆 𝐻",
-        "F҉o҉c҉u҉s҉",
-        "𝗦𝗖⚙𝗣𝗘",
-        "ગુજરાતી",
-        "❶ N E",
-        "C̶A̶N̶C̶E̶L̶",
-        "Infi∞nity",
+    "ᴅ ɪ ᴍ ⌔ ɴ ᴅ",
+    "𝘚𝘗ΞΞ𝘋",
     "ꫝυяα"
   ]
 };
@@ -583,62 +66,569 @@ let stylesByCategory = {
 let symbolsData = {
   frames: [
     { symbol: "꧁", name: "Left Frame" },
-    { symbol: "꧂", name: "Right Frame" },
-        { symbol: "❮", name: "Left Angle Quote" },
-        { symbol: "❯", name: "Right Angle Quote" },
-        { symbol: "︻", name: "Left Tortoise Shell" },
-        { symbol: "︼", name: "Right Tortoise Shell" },
-        { symbol: "⫷", name: "Left Triple Angle" },
-        { symbol: "⫸", name: "Right Triple Angle" },
-        { symbol: "《", name: "Left Double Angle" },
-        { symbol: "》", name: "Right Double Angle" },
-        { symbol: "«", name: "Left Guillemet" },
-        { symbol: "»", name: "Right Guillemet" },
-        { symbol: "【", name: "Left Black Lenticular" },
-        { symbol: "】", name: "Right Black Lenticular" },
-        { symbol: "〖", name: "Left White Lenticular" },
-        { symbol: "〗", name: "Right White Lenticular" },
-        { symbol: "『", name: "Left White Corner" },
-        { symbol: "』", name: "Right White Corner" },
-        { symbol: "❰", name: "Left Heavy Angle" },
-        { symbol: "❱", name: "Right Heavy Angle" },
-        { symbol: "⟦", name: "Left White Square" },
-        { symbol: "⟧", name: "Right White Square" },
-        { symbol: "⟬", name: "Left White Tortoise" },
-        { symbol: "⟭", name: "Right White Tortoise" },
-        { symbol: "⪻", name: "Left Small Angle" },
-        { symbol: "⪼", name: "Right Small Angle" },
-        { symbol: "⧼", name: "Left Angle with Dot" },
-        { symbol: "⧽", name: "Right Angle with Dot" },
-        { symbol: "═", name: "Double Line Left" },
-        { symbol: "═", name: "Double Line Right" },
-        { symbol: "▌", name: "Left Block" },
-        { symbol: "▐", name: "Right Block" },
-        { symbol: "╚", name: "Bottom Left Corner" },
-        { symbol: "╝", name: "Bottom Right Corner" },
-        { symbol: "⎛", name: "Top Left Parenthesis" },
-        { symbol: "⎞", name: "Top Right Parenthesis" },
-        { symbol: "⎜", name: "Vertical Left Parenthesis" },
-        { symbol: "⎟", name: "Vertical Right Parenthesis" },
-        { symbol: "⎝", name: "Bottom Left Parenthesis" },
-        { symbol: "⎠", name: "Bottom Right Parenthesis" },
-        { symbol: "⩸", name: "Left Equals with Dot" },
-        { symbol: "⩹", name: "Right Equals with Dot" },
-        { symbol: "⟊", name: "White Up Triangle" },
-        { symbol: "⟉", name: "White Down Triangle" },
-        { symbol: "✦", name: "Black Star" },
-        { symbol: "✧", name: "White Star" },
-        { symbol: "✩", name: "Shadowed Star" },
-        { symbol: "✪", name: "Circled Star" },
-        { symbol: "✫", name: "Open Center Star" },
-        { symbol: "✬", name: "Black Center Star" },
-        { symbol: "❂", name: "Circled Open Star" },
-        { symbol: "❃", name: "Heavy Teardrop Star" },
-        { symbol: "✹", name: "Heavy Star" },
-        { symbol: "✸", name: "Heavy Asterisk" },
-        { symbol: "✺", name: "Open Center Asterisk" },
-        { symbol: "✻", name: "Spoked Asterisk" },
-        { symbol: "✼", name: "Shadowed White Star" },
-        { symbol: "✽", name: "Heavy Teardrop Spoked" },
-        { symbol: "☌", name: "Conjunction" },
-        { s
+    { symbol: "꧂", name: "Right Frame" }
+  ],
+  tech: [
+    { symbol: "░", name: "Light Shade" },
+    { symbol: "▒", name: "Medium Shade" }
+  ],
+  cute: [
+    { symbol: "☺︎", name: "Smiley" },
+    { symbol: "☃︎", name: "Snowman" }
+  ]
+};
+
+// ==================== EASY-TO-USE FUNCTIONS ====================
+
+// 1. ADD NEW STYLE (with both uppercase and lowercase)
+window.addStyle = function(category, styleName, prefix, suffix, charMap) {
+  if (!stylesByCategory[category]) {
+    stylesByCategory[category] = [];
+  }
+  
+  const exists = stylesByCategory[category].find(s => s.name === styleName);
+  if (exists) {
+    showToast(`Style "${styleName}" already exists in ${category}`);
+    return false;
+  }
+  
+  const newStyle = {
+    name: styleName,
+    prefix: prefix || "",
+    suffix: suffix || "",
+    map: charMap
+  };
+  
+  stylesByCategory[category].push(newStyle);
+  showToast(`New style "${styleName}" added to ${category}`);
+  
+  if (currentFilter === category) {
+    const name = document.getElementById('nameInput').value.trim();
+    if (name) {
+      generateStyles();
+    }
+  }
+  
+  return true;
+};
+
+// 2. ADD NEW SUGGESTION
+window.addSuggestion = function(category, suggestionText) {
+  if (!suggestionsData[category]) {
+    suggestionsData[category] = [];
+  }
+  
+  suggestionsData[category].push(suggestionText);
+  showToast(`New suggestion added to ${category}`);
+  
+  if (suggestionsVisible && currentFilter === category) {
+    loadSuggestions();
+  }
+  
+  return true;
+};
+
+// 3. ADD NEW SYMBOLS
+window.addSymbols = function(symbolCategory, symbol, name) {
+  if (!symbolsData[symbolCategory]) {
+    symbolsData[symbolCategory] = [];
+  }
+  
+  symbolsData[symbolCategory].push({ symbol: symbol, name: name });
+  showToast(`New symbol "${name}" added to ${symbolCategory}`);
+  
+  const modal = document.getElementById('symbolModal');
+  if (modal.classList.contains('show')) {
+    loadModalTabs();
+  }
+  
+  return true;
+};
+
+// 4. ADD MULTIPLE SYMBOLS AT ONCE
+window.addMultipleSymbols = function(symbolCategory, symbolsArray) {
+  if (!symbolsData[symbolCategory]) {
+    symbolsData[symbolCategory] = [];
+  }
+  
+  symbolsArray.forEach(symbol => {
+    symbolsData[symbolCategory].push(symbol);
+  });
+  
+  showToast(`${symbolsArray.length} symbols added to ${symbolCategory}`);
+  
+  const modal = document.getElementById('symbolModal');
+  if (modal.classList.contains('show')) {
+    loadModalTabs();
+  }
+  
+  return true;
+};
+
+// 5. ADD MULTIPLE SUGGESTIONS AT ONCE
+window.addMultipleSuggestions = function(category, suggestionsArray) {
+  if (!suggestionsData[category]) {
+    suggestionsData[category] = [];
+  }
+  
+  suggestionsArray.forEach(suggestion => {
+    suggestionsData[category].push(suggestion);
+  });
+  
+  showToast(`${suggestionsArray.length} suggestions added to ${category}`);
+  
+  if (suggestionsVisible && currentFilter === category) {
+    loadSuggestions();
+  }
+  
+  return true;
+};
+
+// ==================== CORE FUNCTIONS ====================
+
+function convert(name, map) {
+  return name.split("").map(ch => {
+    // 1. Try exact match (case sensitive)
+    if (map[ch] !== undefined) {
+      return map[ch];
+    }
+    
+    // 2. Try lowercase version
+    const lowerChar = ch.toLowerCase();
+    if (map[lowerChar] !== undefined) {
+      return map[lowerChar];
+    }
+    
+    // 3. Try uppercase version
+    const upperChar = ch.toUpperCase();
+    if (map[upperChar] !== undefined) {
+      return map[upperChar];
+    }
+    
+    // 4. Return original character
+    return ch;
+  }).join("");
+}
+
+function generateStyles() {
+  const name = document.getElementById('nameInput').value.trim();
+  const result = document.getElementById('result');
+  const resultsCount = document.getElementById('resultsCount');
+  
+  result.innerHTML = "";
+  
+  if (!name) {
+    result.innerHTML = `
+      <div class="empty-state">
+        <i class="fas fa-magic"></i>
+        <p>Enter your name to see magical styles!</p>
+      </div>
+    `;
+    resultsCount.textContent = "0";
+    return;
+  }
+  
+  const styles = stylesByCategory[currentFilter] || [];
+  
+  if (styles.length === 0) {
+    result.innerHTML = `
+      <div class="empty-state">
+        <i class="fas fa-exclamation-circle"></i>
+        <p>No styles available for this category. Add some styles using addStyle() function!</p>
+      </div>
+    `;
+    resultsCount.textContent = "0";
+    return;
+  }
+  
+  // Shuffle styles for random order
+  const shuffled = [...styles].sort(() => Math.random() - 0.5);
+  
+  shuffled.forEach(style => {
+    const styled = style.prefix + convert(name, style.map) + style.suffix;
+    const escapedStyled = styled.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    
+    const div = document.createElement('div');
+    div.className = `style-box ${currentFilter}`;
+    div.innerHTML = `
+      <span class="style-text">${styled}</span>
+      <button class="copy-btn" onclick="copyText('${escapedStyled}', this)">
+        <i class="fas fa-copy"></i> Copy
+      </button>
+    `;
+    result.appendChild(div);
+  });
+  
+  resultsCount.textContent = styles.length;
+}
+
+function selectCategory(type) {
+  currentFilter = type;
+  
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.classList.remove('active');
+    if (btn.getAttribute('data-tab') === type) {
+      btn.classList.add('active');
+    }
+  });
+  
+  if (suggestionsVisible) {
+    toggleSuggestions();
+  }
+  
+  const name = document.getElementById('nameInput').value.trim();
+  if (name) {
+    generateStyles();
+  } else {
+    document.getElementById('result').innerHTML = `
+      <div class="empty-state">
+        <i class="fas fa-magic"></i>
+        <p>Enter your name to see ${type} styles!</p>
+      </div>
+    `;
+    document.getElementById('resultsCount').textContent = "0";
+  }
+}
+
+function toggleSuggestions() {
+  const suggestionsSection = document.getElementById('suggestionsSection');
+  const toggleBtn = document.querySelector('.toggle-suggestions-btn');
+  
+  if (!suggestionsVisible) {
+    suggestionsSection.classList.add('show');
+    loadSuggestions();
+    toggleBtn.innerHTML = '<i class="fas fa-eye-slash"></i> Hide Suggestions';
+    suggestionsVisible = true;
+  } else {
+    suggestionsSection.classList.remove('show');
+    toggleBtn.innerHTML = '<i class="fas fa-lightbulb"></i> Show Name Suggestions';
+    suggestionsVisible = false;
+  }
+}
+
+function loadSuggestions() {
+  const suggestionsSection = document.getElementById('suggestionsSection');
+  const currentSuggestions = suggestionsData[currentFilter] || [];
+  
+  if (currentSuggestions.length === 0) {
+    suggestionsSection.innerHTML = `
+      <h3 class="suggestions-title"><i class="fas fa-lightbulb"></i> ${currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1)} Name Suggestions</h3>
+      <p class="no-suggestions">No suggestions available. Add some using addSuggestion() function!</p>
+    `;
+    return;
+  }
+  
+  let html = `<h3 class="suggestions-title"><i class="fas fa-lightbulb"></i> ${currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1)} Name Suggestions</h3>`;
+  html += `<div class="suggestions-grid">`;
+  
+  currentSuggestions.forEach(suggestion => {
+    const escapedSuggestion = suggestion.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    html += `
+      <div class="suggestion-box ${currentFilter}">
+        <span class="suggestion-text">${suggestion}</span>
+        <button class="suggestion-copy-btn" onclick="copyText('${escapedSuggestion}', this)">
+          <i class="fas fa-copy"></i> Copy
+        </button>
+      </div>
+    `;
+  });
+  
+  html += `</div>`;
+  suggestionsSection.innerHTML = html;
+}
+
+function loadModalTabs() {
+  const modalTabs = document.getElementById('modalTabs');
+  let html = '';
+  
+  Object.keys(symbolsData).forEach((category, index) => {
+    const activeClass = index === 0 ? 'active' : '';
+    html += `<button class="modal-tab-btn ${activeClass}" onclick="openSymbolTab('${category}')">${category.charAt(0).toUpperCase() + category.slice(1)}</button>`;
+  });
+  
+  modalTabs.innerHTML = html;
+  
+  const firstCategory = Object.keys(symbolsData)[0];
+  if (firstCategory) {
+    openSymbolTab(firstCategory);
+  }
+}
+
+function openSymbolTab(category) {
+  document.querySelectorAll('.modal-tab-btn').forEach(btn => {
+    btn.classList.remove('active');
+    if (btn.textContent.toLowerCase().includes(category.toLowerCase())) {
+      btn.classList.add('active');
+    }
+  });
+  
+  const symbolsGrid = document.getElementById('symbolsGrid');
+  const symbols = symbolsData[category] || [];
+  
+  if (symbols.length === 0) {
+    symbolsGrid.innerHTML = '<p class="no-symbols">No symbols available. Add some using addSymbols() function!</p>';
+    return;
+  }
+  
+  let html = '';
+  symbols.forEach(symbol => {
+    const escapedSymbol = symbol.symbol.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    html += `
+      <div class="symbol-item">
+        <div class="symbol-display">${symbol.symbol}</div>
+        <div class="symbol-name">${symbol.name}</div>
+        <div class="symbol-actions">
+          <button class="symbol-insert-btn" onclick="insertSymbol('${escapedSymbol}')">
+            <i class="fas fa-plus"></i> Insert
+          </button>
+          <button class="symbol-copy-btn" onclick="copyText('${escapedSymbol}', this)">
+            <i class="fas fa-copy"></i> Copy
+          </button>
+        </div>
+      </div>
+    `;
+  });
+  
+  symbolsGrid.innerHTML = html;
+}
+
+function insertSymbol(symbol) {
+  const nameInput = document.getElementById('nameInput');
+  const currentValue = nameInput.value;
+  const cursorPos = nameInput.selectionStart;
+  
+  nameInput.value = currentValue.substring(0, cursorPos) + symbol + currentValue.substring(cursorPos);
+  nameInput.selectionStart = nameInput.selectionEnd = cursorPos + symbol.length;
+  nameInput.dispatchEvent(new Event('input'));
+  closeSymbolModal();
+}
+
+function copyText(text, buttonElement = null) {
+  navigator.clipboard.writeText(text)
+    .then(() => {
+      if (buttonElement) {
+        const originalText = buttonElement.innerHTML;
+        const originalClass = buttonElement.className;
+        
+        buttonElement.innerHTML = '<i class="fas fa-check"></i> Copied!';
+        buttonElement.classList.add('copied');
+        
+        setTimeout(() => {
+          buttonElement.innerHTML = originalText;
+          buttonElement.className = originalClass;
+        }, 1500);
+      } else {
+        showToast('Text copied to clipboard!');
+      }
+    })
+    .catch(err => {
+      console.error('Failed to copy: ', err);
+      showToast('Failed to copy text. Please try again.');
+    });
+}
+
+function showToast(message) {
+  const existingToast = document.querySelector('.toast-message');
+  if (existingToast) {
+    existingToast.remove();
+  }
+  
+  const toast = document.createElement('div');
+  toast.className = 'toast-message';
+  toast.textContent = message;
+  document.body.appendChild(toast);
+  
+  setTimeout(() => {
+    toast.style.animation = 'slideOut 0.3s ease';
+    setTimeout(() => {
+      if (toast.parentNode) {
+        document.body.removeChild(toast);
+      }
+    }, 300);
+  }, 3000);
+}
+
+// ==================== INITIALIZATION ====================
+
+function toggleTheme() {
+  isDarkTheme = !isDarkTheme;
+  const body = document.body;
+  const themeToggleBtn = document.getElementById('themeToggleBtn');
+  
+  if (isDarkTheme) {
+    body.classList.add('dark-theme');
+    themeToggleBtn.innerHTML = '<i class="fas fa-moon"></i>';
+    localStorage.setItem('theme', 'dark');
+  } else {
+    body.classList.remove('dark-theme');
+    themeToggleBtn.innerHTML = '<i class="fas fa-sun"></i>';
+    localStorage.setItem('theme', 'light');
+  }
+}
+
+function openSymbolModal() {
+  document.getElementById('symbolModal').classList.add('show');
+  loadModalTabs();
+}
+
+function closeSymbolModal() {
+  document.getElementById('symbolModal').classList.remove('show');
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  // Check for saved theme preference
+  const savedTheme = localStorage.getItem('theme');
+  if (savedTheme === 'dark') {
+    isDarkTheme = true;
+    document.body.classList.add('dark-theme');
+    document.getElementById('themeToggleBtn').innerHTML = '<i class="fas fa-moon"></i>';
+  }
+  
+  // Theme toggle button
+  document.getElementById('themeToggleBtn').addEventListener('click', toggleTheme);
+  
+  // Auto-generate when typing
+  document.getElementById('nameInput').addEventListener('input', function() {
+    clearTimeout(nameInputTimer);
+    nameInputTimer = setTimeout(() => {
+      if (this.value.trim().length > 0) {
+        generateStyles();
+      }
+    }, 300);
+  });
+  
+  // Symbol picker button
+  document.getElementById('symbolPickerBtn').addEventListener('click', openSymbolModal);
+  
+  // Scroll to top button
+  const scrollBtn = document.getElementById('scrollToTop');
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > 300) {
+      scrollBtn.classList.add('visible');
+    } else {
+      scrollBtn.classList.remove('visible');
+    }
+  });
+  
+  scrollBtn.addEventListener('click', function() {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  });
+  
+  // Close modal when clicking outside
+  document.getElementById('symbolModal').addEventListener('click', function(e) {
+    if (e.target === this) {
+      closeSymbolModal();
+    }
+  });
+  
+  // Initial load
+  loadModalTabs();
+
+  // ============ NEW GAMER STYLES ============
+  
+  // Style 1: Sans Serif Italic with Symbol Prefix
+  addStyle('gamer', 'gamer_sans_serif_symbol', 'T͢N͢ ☯', 'メ࿐', {
+    a: "𝘢", b: "𝘣", c: "𝘤̆̈", d: "𝘥", e: "𝘦", f: "𝘧", g: "𝘨", h: "𝘩", i: "𝘪", j: "𝘫",
+    k: "𝘬", l: "𝘭", m: "𝘮", n: "𝘯", o: "𝘰", p: "𝘱", q: "𝘲", r: "𝘳", s: "𝘴", t: "𝘵",
+    u: "𝘶", v: "𝘷", w: "𝘸", x: "𝘹", y: "𝘺", z: "𝘻",
+    A: "𝘈", B: "𝘉", C: "𝘊", D: "𝘋", E: "𝘌", F: "𝘍", G: "𝘎", H: "𝘏", I: "𝘐", J: "𝘑",
+    K: "𝘒", L: "𝘓", M: "𝘔", N: "𝘕", O: "𝘖", P: "𝘗", Q: "𝘘", R: "𝘙", S: "𝘚", T: "𝘛",
+    U: "𝘜", V: "𝘝", W: "𝘞", X: "𝘟", Y: "𝘠", Z: "𝘡"
+  });
+
+  // Style 2: Small Caps OP Style
+  addStyle('gamer', 'gamer_small_caps_op', 'ᴏᴘ メ', 'メ࿐', {
+    a: "ᴀ", b: "ʙ", c: "ᴄ", d: "ᴅ", e: "ᴇ", f: "ꜰ", g: "ɢ", h: "ʜ", i: "ɪ", j: "ᴊ",
+    k: "ᴋ", l: "ʟ", m: "ᴍ", n: "ɴ", o: "ᴏ", p: "ᴘ", q: "ǫ", r: "ʀ", s: "ꜱ", t: "ᴛ",
+    u: "ᴜ", v: "ᴠ", w: "ᴡ", x: "x", y: "ʏ", z: "ᴢ",
+    A: "ᴀ", B: "ʙ", C: "ᴄ", D: "ᴅ", E: "ᴇ", F: "ꜰ", G: "ɢ", H: "ʜ", I: "ɪ", J: "ᴊ",
+    K: "ᴋ", L: "ʟ", M: "ᴍ", N: "ɴ", O: "ᴏ", P: "ᴘ", Q: "ǫ", R: "ʀ", S: "ꜱ", T: "ᴛ",
+    U: "ᴜ", V: "ᴠ", W: "ᴡ", X: "x", Y: "ʏ", Z: "ᴢ"
+  });
+
+  // Style 3: Currency Symbol Prefix
+  addStyle('gamer', 'gamer_currency_prefix', '₦₲ ', ' ™', {
+    a: "𝘢", b: "𝘣", c: "𝘤̆̈", d: "𝘥", e: "𝘦", f: "𝘧", g: "𝘨", h: "𝘩", i: "𝘪", j: "𝘫",
+    k: "𝘬", l: "𝘭", m: "𝘮", n: "𝘯", o: "𝘰", p: "𝘱", q: "𝘲", r: "𝘳", s: "𝘴", t: "𝘵",
+    u: "𝘶", v: "𝘷", w: "𝘸", x: "𝘹", y: "𝘺", z: "𝘻",
+    A: "𝘈", B: "𝘉", C: "𝘊", D: "𝘋", E: "𝘌", F: "𝘍", G: "𝘎", H: "𝘏", I: "𝘐", J: "𝘑",
+    K: "𝘒", L: "𝘓", M: "𝘔", N: "𝘕", O: "𝘖", P: "𝘗", Q: "𝘘", R: "𝘙", S: "𝘚", T: "𝘛",
+    U: "𝘜", V: "𝘝", W: "𝘞", X: "𝘟", Y: "𝘠", Z: "𝘡"
+  });
+
+  // Style 4: Bold with Checkmark
+  addStyle('gamer', 'gamer_bold_checkmark', '𝚼𝚻_', ' ✔', {
+    a: "ᗩ", b: "ᗷ", c: "ᑕ", d: "ᗪ", e: "ᗴ", f: "ᖴ", g: "Ꮐ", h: "ᕼ", i: "Ꭵ", j: "ᒍ",
+    k: "Ꮶ", l: "Ꮮ", m: "ᗰ", n: "ᑎ", o: "ᗝ", p: "ᑭ", q: "ᑫ", r: "ᖇ", s: "ᔕ", t: "ᖶ",
+    u: "ᑌ", v: "ᐯ", w: "ᗯ", x: "᙭", y: "Ꭹ", z: "ᘔ",
+    A: "ᗩ", B: "ᗷ", C: "ᑕ", D: "ᗪ", E: "ᗴ", F: "ᖴ", G: "Ꮐ", H: "ᕼ", I: "Ꭵ", J: "ᒍ",
+    K: "Ꮶ", L: "Ꮮ", M: "ᗰ", N: "ᑎ", O: "ᗝ", P: "ᑭ", Q: "ᑫ", R: "ᖇ", S: "ᔕ", T: "ᖶ",
+    U: "ᑌ", V: "ᐯ", W: "ᗯ", X: "᙭", Y: "Ꭹ", Z: "ᘔ"
+  });
+
+  // Style 5: Italic with Flower Decoration
+  addStyle('gamer', 'gamer_italic_flower', '༒', ' ✿˚₊࿐ ᵒᵖ', {
+    a: "𝑎", b: "𝑏", c: "𝑐", d: "𝑑", e: "𝑒", f: "𝑓", g: "𝑔", h: "𝘩", i: "𝑖", j: "𝑗",
+    k: "𝑘", l: "𝑙", m: "𝑚", n: "𝑛", o: "𝑜", p: "𝑝", q: "𝑞", r: "𝑟", s: "𝑠", t: "𝑡",
+    u: "𝑢", v: "𝑣", w: "𝑤", x: "𝑥", y: "𝑦", z: "𝑧",
+    A: "𝐴", B: "𝐵", C: "𝐶", D: "𝐷", E: "𝐸", F: "𝐹", G: "𝐺", H: "𝐻", I: "𝐼", J: "𝐽",
+    K: "𝐾", L: "𝐿", M: "𝑀", N: "𝑁", O: "𝑂", P: "𝑃", Q: "𝑄", R: "𝑅", S: "𝑆", T: "𝑇",
+    U: "𝑈", V: "𝑉", W: "𝑊", X: "𝑋", Y: "𝑌", Z: "𝑍"
+  });
+
+  // Style 6: Monospace with Number Suffix
+  addStyle('gamer', 'gamer_monospace_number', 'ҩɴ ✗ ', ' ✗ ⁹⁹⁹', {
+    a: "𝚊", b: "𝚋", c: "𝚌", d: "𝚍", e: "𝚎", f: "𝚏", g: "𝚐", h: "𝚑", i: "𝚒", j: "𝚓",
+    k: "𝚔", l: "𝚕", m: "𝚖", n: "𝚗", o: "𝚘", p: "𝚙", q: "𝚚", r: "𝚛", s: "𝚜", t: "𝚝",
+    u: "𝚞", v: "𝚟", w: "𝚠", x: "𝚡", y: "𝚢", z: "𝚣",
+    A: "𝙰", B: "𝙱", C: "𝙲", D: "𝙳", E: "𝙴", F: "𝙵", G: "𝙶", H: "𝙷", I: "𝙸", J: "𝙹",
+    K: "𝙺", L: "𝙻", M: "𝙼", N: "𝙽", O: "𝙾", P: "𝙿", Q: "𝚀", R: "𝚁", S: "𝚂", T: "𝚃",
+    U: "𝚄", V: "𝚅", W: "𝚆", X: "𝚇", Y: "𝚈", Z: "𝚉"
+  });
+
+  // Style 7: Strikethrough with Korean Symbol
+  addStyle('gamer', 'gamer_strikethrough_korean', '𝚾- ', ' 모', {
+    a: "a̷", b: "b̷", c: "c̷", d: "d̷", e: "e̷", f: "f̷", g: "g̷", h: "h̷", i: "i̷", j: "j̷",
+    k: "k̷", l: "l̷", m: "m̷", n: "n̷", o: "o̷", p: "p̷", q: "q̷", r: "r̷", s: "s̷", t: "t̷",
+    u: "u̷", v: "v̷", w: "w̷", x: "x̷", y: "y̷", z: "z̷",
+    A: "A̷̷", B: "B̷̷", C: "C̷̷", D: "D̷̷", E: "E̷̷", F: "F̷̷", G: "G̷̷", H: "H̷̷", I: "I̷̷", J: "J̷̷",
+    K: "K̷̷", L: "L̷̷", M: "M̷̷", N: "N̷̷", O: "O̷̷", P: "P̷̷", Q: "Q̷̷", R: "R̷̷", S: "S̷̷", T: "T̷̷",
+    U: "U̷̷", V: "V̷̷", W: "W̷̷", X: "X̷̷", Y: "Y̷̷", Z: "Z̷̷"
+  });
+
+  // Style 8: Superscript Circle with Frame
+  addStyle('gamer', 'gamer_superscript_circle_frame', '꧁✞ ', ' ✞꧂', {
+    a: "ᵃ͎", b: "ᵇ͎", c: "ᶜ͎", d: "ᵈ͎", e: "ᵉ͎", f: "ᶠ͎", g: "ᵍ͎", h: "ʰ͎", i: "ⁱ͎", j: "ʲ͎",
+    k: "ᵏ͎", l: "ˡ͎", m: "ᵐ͎", n: "ⁿ͎", o: "ᵒ͎", p: "ᵖ͎", q: "ᑫ͎", r: "ʳ͎", s: "ˢ͎", t: "ᵗ͎",
+    u: "ᵘ͎", v: "ᵛ͎", w: "ʷ͎", x: "ˣ͎", y: "ʸ͎", z: "ᶻ͎",
+    A: "ᴬ͎", B: "ᴮ͎", C: "ᶜ͎", D: "ᴰ͎", E: "ᴱ͎", F: "ᶠ͎", G: "ᴳ͎", H: "ᴴ͎", I: "ᴵ͎", J: "ᴶ͎",
+    K: "ᴷ͎", L: "ᴸ͎", M: "ᴹ͎", N: "ᴺ͎", O: "ᴼ͎", P: "ᴾ͎", Q: "ᵠ͎", R: "ᴿ͎", S: "ˢ͎", T: "ᵀ͎",
+    U: "ᵁ͎", V: "ⱽ͎", W: "ᵂ͎", X: "ˣ͎", Y: "ʸ͎", Z: "ᶻ͎"
+  });
+
+  // Style 9: Greek Small Simple
+  addStyle('gamer', 'gamer_greek_simple', 'ˢⁱᵐᵖˡᵉ✗', '✗ˎˊ˗࿐', {
+    a: "α", b: "в", c: "c", d: "ɗ", e: "ε", f: "ƒ", g: "ɠ", h: "н", i: "ɪ", j: "נ",
+    k: "κ", l: "ℓ", m: "м", n: "η", o: "σ", p: "ρ", q: "զ", r: "я", s: "ѕ", t: "τ",
+    u: "υ", v: "ν", w: "ω", x: "χ", y: "γ", z: "ƶ",
+    A: "α", B: "в", C: "c", D: "ɗ", E: "ε", F: "ƒ", G: "ɠ", H: "н", I: "ɪ", J: "נ",
+    K: "κ", L: "ℓ", M: "м", N: "η", O: "σ", P: "ρ", Q: "զ", R: "я", S: "ѕ", T: "τ",
+    U: "υ", V: "ν", W: "ω", X: "χ", Y: "γ", Z: "ƶ"
+  });
+
+  // Style 10: Circle Accent with Star Frame
+  addStyle('gamer', 'gamer_circle_accent_stars', '༒✰ ', '✰༒', {
+    a: "̤̮🅐", b: "̤̮🅑", c: "̤̮🅒", d: "̤̮🅓", e: "̤̮🅔", f: "̤̮🅕", g: "̤̮🅖", h: "̤̮🅗", i: "̤̮🅘", j: "̤̮🅙",
+    k: "̤̮🅚", l: "̤̮🅛", m: "̤̮🅜", n: "̤̮🅝 ☻", o: "̤̮🅞", p: "̤̮🅟", q: "̤̮🅠", r: "̤̮🅡", s: "̤̮🅢", t: "̤̮🅣",
+    u: "̤̮🅤", v: "̤̮🅥", w: "̤̮🅦", x: "̤̮🅧", y: "̤̮🅨", z: "̤̮🅩",
+    A: "̤̮🅐", B: "̤̮🅑", C: "̤̮🅒", D: "̤̮🅓", E: "̤̮🅔", F: "̤̮🅕", G: "̤̮🅖", H: "̤̮🅗", I: "̤̮🅘", J: "̤̮🅙",
+    K: "̤̮🅚", L: "̤̮🅛", M: "̤̮🅜", N: "̤̮🅝 ☻", O: "̤̮🅞", P: "̤̮🅟", Q: "̤̮🅠", R: "̤̮🅡", S: "̤̮🅢", T: "̤̮🅣",
+    U: "̤̮🅤", V: "̤̮🅥", W: "̤̮🅦", X: "̤̮🅧", Y: "̤̮🅨", Z: "̤̮🅩"
+  });
+
+  // ============ PREVIOUS STYLES (Yahan pehle vale bhi rahenge) ============
+  
+}); // ← BILKUL LAST LINE
