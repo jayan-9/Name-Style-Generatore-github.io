@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Name Style Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .privacy-container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        .privacy-header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid var(--border-color);
+        }
+        
+        .privacy-header h1 {
+            color: var(--accent-color);
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        .privacy-header p {
+            color: var(--text-color-light);
+            font-size: 1.1rem;
+        }
+        
+        .last-updated {
+            background: var(--card-bg);
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            text-align: center;
+            border-left: 4px solid var(--accent-color);
+            box-shadow: var(--card-shadow);
+        }
+        
+        .privacy-content {
+            background: var(--card-bg);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: var(--card-shadow);
+        }
+        
+        .section {
+            margin-bottom: 35px;
+        }
+        
+        .section h2 {
+            color: var(--accent-color);
+            font-size: 1.6rem;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .section h2 i {
+            font-size: 1.3rem;
+        }
+        
+        .section p {
+            color: var(--text-color);
+            line-height: 1.7;
+            margin-bottom: 15px;
+            font-size: 1.05rem;
+        }
+        
+        .section ul {
+            margin-left: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .section li {
+            color: var(--text-color);
+            line-height: 1.7;
+            margin-bottom: 10px;
+            padding-left: 10px;
+        }
+        
+        .highlight-box {
+            background: var(--primary-bg);
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid var(--gamer-color);
+            margin: 20px 0;
+        }
+        
+        .contact-info {
+            background: linear-gradient(135deg, var(--accent-color), var(--accent-color-dark));
+            color: white;
+            padding: 25px;
+            border-radius: 12px;
+            margin-top: 30px;
+        }
+        
+        .contact-info h3 {
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .back-button {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 12px 30px;
+            background: var(--accent-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        
+        .back-button:hover {
+            background: var(--accent-color-light);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 18px rgba(108, 99, 255, 0.3);
+        }
+        
+        @media (max-width: 768px) {
+            .privacy-container {
+                padding: 20px 15px;
+            }
+            
+            .privacy-header h1 {
+                font-size: 2rem;
+            }
+            
+            .privacy-content {
+                padding: 20px;
+            }
+            
+            .section h2 {
+                font-size: 1.4rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="main-wrapper">
+        <header class="header">
+            <div class="header-content">
+                <h1>Privacy Policy</h1>
+                <p>Name Style Generator - Your Privacy Matters</p>
+                <button class="theme-toggle-btn" id="themeToggleBtn">
+                    <i class="fas fa-sun"></i>
+                </button>
+            </div>
+        </header>
+
+        <div class="main-container">
+            <div class="privacy-container">
+                <div class="privacy-header">
+                    <h1><i class="fas fa-shield-alt"></i> Privacy Policy</h1>
+                    <p>Last Updated: March 2024</p>
+                </div>
+                
+                <div class="last-updated">
+                    <p><strong>This privacy policy explains how Name Style Generator handles your information.</strong></p>
+                </div>
+                
+                <div class="privacy-content">
+                    <div class="section">
+                        <h2><i class="fas fa-info-circle"></i> Introduction</h2>
+                        <p>Welcome to Name Style Generator ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal data. This privacy policy explains what information we collect, how we use it, and your rights regarding your data.</p>
+                        <p>Name Style Generator is a free online tool that allows users to generate stylish names with various fonts, symbols, and emojis. Our service operates entirely in your browser without requiring any server-side processing of your personal information.</p>
+                    </div>
+                    
+                    <div class="section">
+                        <h2><i class="fas fa-database"></i> Information We Collect</h2>
+                        <p>Our application is designed with privacy in mind. We collect minimal information:</p>
+                        <ul>
+                            <li><strong>Names You Enter:</strong> The names you input into our generator are processed locally in your browser and are never sent to our servers.</li>
+                            <li><strong>Usage Data:</strong> We may collect anonymous usage statistics to improve our service (such as most popular categories, feature usage).</li>
+                            <li><strong>Theme Preference:</strong> Your light/dark theme preference is stored locally in your browser.</li>
+                            <li><strong>Browser Information:</strong> Basic browser information for compatibility purposes.</li>
+                        </ul>
+                        
+                        <div class="highlight-box">
+                            <p><strong>Important:</strong> We do NOT collect:</p>
+                            <ul>
+                                <li>Personal identification information (email, phone number, address)</li>
+                                <li>Payment information (our service is completely free)</li>
+                                <li>Location data</li>
+                                <li>Contact lists or social media information</li>
+                                <li>Any sensitive personal information</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="section">
+                        <h2><i class="fas fa-laptop-code"></i> How We Process Data</h2>
+                        <p>All name processing happens locally in your browser using JavaScript. When you:</p>
+                        <ul>
+                            <li><strong>Enter a name:</strong> The text stays in your browser memory</li>
+                            <li><strong>Generate styles:</strong> Processing occurs locally using client-side JavaScript</li>
+                            <li><strong>Copy results:</strong> Uses your browser's clipboard API</li>
+                            <li><strong>Use symbols:</strong> Symbol data is loaded locally from predefined lists</li>
+                        </ul>
+                        <p>No name data is transmitted over the internet or stored on our servers.</p>
+                    </div>
+                    
+                    <div class="section">
+                        <h2><i class="fas fa-cookie"></i> Cookies & Local Storage</h2>
+                        <p>We use minimal browser storage to enhance your experience:</p>
+                        <ul>
+                            <li><strong>Local Storage:</strong> Stores your theme preference (light/dark mode)</li>
+                            <li><strong>Session Storage:</strong> Temporarily stores your current category selection</li>
+                            <li><strong>No Tracking Cookies:</strong> We do not use cookies for tracking or advertising</li>
+                            <li><strong>No Third-Party Analytics:</strong> We do not use Google Analytics or similar tracking services</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="section">
+                        <h2><i class="fas fa-share-alt"></i> Third-Party Services</h2>
+                        <p>We use limited third-party services:</p>
+                        <ul>
+                            <li><strong>Font Awesome:</strong> For icons (loaded from cdnjs.cloudflare.com)</li>
+                            <li><strong>Google Fonts:</strong> For typography (if used in future updates)</li>
+                            <li><strong>CDN Services:</strong> For content delivery of static assets</li>
+                        </ul>
+                        <p>These services may collect standard web log information. Please review their privacy policies for more information.</p>
+                    </div>
+                    
+                    <div class="section">
+                        <h2><i class="fas fa-user-shield"></i> Your Rights</h2>
+                        <p>You have the right to:</p>
+                        <ul>
+                            <li><strong>Access:</strong> Request information about what data we have (minimal in our case)</li>
+                            <li><strong>Control:</strong> Clear your browser's local storage to remove theme preferences</li>
+                            <li><strong>Opt-out:</strong> Not use our service if you don't agree with this policy</li>
+                            <li><strong>Delete:</strong> Since we don't store personal data, there's nothing to delete from our servers</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="section">
+                        <h2><i class="fas fa-child"></i> Children's Privacy</h2>
+                        <p>Our service is safe for users of all ages:</p>
+                        <ul>
+                            <li>We do not knowingly collect personal information from children under 13</li>
+                            <li>Our content is family-friendly and appropriate for all ages</li>
+                            <li>No registration or personal information is required to use our service</li>
+                            <li>Parents can feel secure knowing their children's data stays in their browser</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="section">
+                        <h2><i class="fas fa-lock"></i> Data Security</h2>
+                        <p>We implement appropriate security measures:</p>
+                        <ul>
+                            <li><strong>Local Processing:</strong> All sensitive operations happen in your browser</li>
+                            <li><strong>No Database:</strong> We don't have a database of user information</li>
+                            <li><strong>HTTPS:</strong> Our website uses secure HTTPS connections</li>
+                            <li><strong>Regular Updates:</strong> We keep our code updated and secure</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="section">
+                        <h2><i class="fas fa-sync-alt"></i> Changes to This Policy</h2>
+                        <p>We may update this privacy policy periodically. When we do, we will:</p>
+                        <ul>
+                            <li>Update the "Last Updated" date at the top of this page</li>
+                            <li>Post a notice on our main page if changes are significant</li>
+                            <li>Keep previous versions available upon request</li>
+                        </ul>
+                        <p>Your continued use of our service after changes constitutes acceptance of the updated policy.</p>
+                    </div>
+                    
+                    <div class="contact-info">
+                        <h3><i class="fas fa-envelope"></i> Contact Us</h3>
+                        <p>If you have questions about this Privacy Policy, please:</p>
+                        <ul>
+                            <li>Check our FAQ section on the main page</li>
+                            <li>Use the contact form if available on our website</li>
+                            <li>Email us at: privacy@namestylegenerator.example.com</li>
+                        </ul>
+                        <p><small>Note: Replace with your actual contact information when deploying.</small></p>
+                    </div>
+                    
+                    <div style="text-align: center; margin-top: 40px;">
+                        <button onclick="window.location.href='index.html'" class="back-button">
+                            <i class="fas fa-arrow-left"></i> Back to Name Generator
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer style="text-align:center; padding:15px; font-size:14px; margin-top: 30px;">
+            <p>© 2024 Name Style Generator. All rights reserved. | <a href="index.html">Home</a> | <a href="privacy-policy.html">Privacy Policy</a></p>
+        </footer>
+    </div>
+
+    <script>
+        // Theme toggle functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            const themeToggleBtn = document.getElementById('themeToggleBtn');
+            const icon = themeToggleBtn.querySelector('i');
+            
+            // Check for saved theme or prefer-color-scheme
+            const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+            const currentTheme = localStorage.getItem('theme');
+            
+            if (currentTheme === 'dark' || (!currentTheme && prefersDarkScheme.matches)) {
+                document.body.classList.add('dark-theme');
+                icon.classList.remove('fa-sun');
+                icon.classList.add('fa-moon');
+            }
+            
+            themeToggleBtn.addEventListener('click', function() {
+                document.body.classList.toggle('dark-theme');
+                
+                if (document.body.classList.contains('dark-theme')) {
+                    localStorage.setItem('theme', 'dark');
+                    icon.classList.remove('fa-sun');
+                    icon.classList.add('fa-moon');
+                } else {
+                    localStorage.setItem('theme', 'light');
+                    icon.classList.remove('fa-moon');
+                    icon.classList.add('fa-sun');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
