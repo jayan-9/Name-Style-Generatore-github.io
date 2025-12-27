@@ -641,4 +641,677 @@ let symbolsData = {
         { symbol: "✼", name: "Shadowed White Star" },
         { symbol: "✽", name: "Heavy Teardrop Spoked" },
         { symbol: "☌", name: "Conjunction" },
-        { s
+        { symbol: "🌼⃝⃪⃨⃡❀", name: "Daisy" },
+        { symbol: "🪽⃝⃪⃨⃡✤", name: "Wings" },
+        { symbol: "🌺⃝⃪⃨⃡⍣", name: "Hibiscus" },
+        { symbol: "💖⃝⃪⃨⃡✩", name: "Sparkle Heart" },
+        { symbol: "🩷⃝⃪⃨⃡𓇼", name: "Pink Heart" },
+        { symbol: "⭐⃝⃪⃨⃡𓏲", name: "Star" },
+        { symbol: "✿⃝⃪⃨⃡ꕤ", name: "Flower" },
+        { symbol: "✧⃝⃪⃨⃡∘", name: "Sparkle" },
+        { symbol: "❣⃝⃪⃨⃡⇢", name: "Heart Arrow" },
+        { symbol: "✦⃝⃪⃨⃡ꗃ", name: "Diamond" },
+        { symbol: "🍂⃝⃪⃨⃡✿", name: "Autumn Leaf" },
+        { symbol: "🪽⃝⃪⃨⃡ᯅ", name: "Angel Wings" },
+        { symbol: "🎀⃝⃪⃨⃡✶", name: "Ribbon" },
+        { symbol: "🪷⃝⃪⃨⃡𖡼", name: "Lotus" },
+        { symbol: "🌙⃝⃪⃨⃡✧", name: "Moon" },
+        { symbol: "🫧⃝⃪⃨⃡⟡", name: "Bubbles" },
+        { symbol: "🍄⃝⃪⃨⃡✾", name: "Mushroom" },
+        { symbol: "🐾⃝⃪⃨⃡⩩", name: "Paw Prints" },
+        { symbol: "💎⃝⃪⃨⃡✦", name: "Gem" },
+        { symbol: "✩⃝⃪⃨⃡𖤐", name: "Star Symbol" },
+        { symbol: "🧊⃝⃪⃨⃡⍊", name: "Ice" },
+        { symbol: "🌟⃝⃪⃨⃡✧", name: "Glowing Star" },
+        { symbol: "💛⃝⃪⃨⃡𖥻", name: "Yellow Heart" },
+        { symbol: "🪻⃝⃪⃨⃡✿", name: "Violet" },
+        { symbol: "(๑•ᴗ•๑)♡", name: "Blushing Face" },
+        { symbol: "( ˆ⌣ˆ )♡", name: "Happy Face Heart" },
+        { symbol: "(˶˃ ᵕ ˂˶)", name: "Cute Blush" },
+        { symbol: "(*¯ ³¯*)♡", name: "Kissing Face" },
+        { symbol: "(❁´◡`❁)", name: "Flower Face" },
+        { symbol: "(╯♡‿♡)╯", name: "Arms Heart" },
+        { symbol: "(｡•ᴗ•｡)✿", name: "Flower Cheeks" },
+        { symbol: "(♡⸃◡⸂♡)", name: "Heart Eyes" },
+        { symbol: "(ฅ•.•ฅ)♡", name: "Cat Hands" },
+        { symbol: "(❀◕‿◕)", name: "Flower Dot Eyes" },
+        { symbol: "(⊃｡•́‿•̀｡)⊃", name: "Hugging" },
+        { symbol: "(❁ᴗ͈ˬᴗ͈)◞", name: "Cheeky Face" },
+        { symbol: "(≧ᗜ≦*)", name: "Excited Face" },
+        { symbol: "(✿❛◡❛)", name: "Winking Flower" },
+        { symbol: "(*/ω＼*)", name: "Shy Face" },
+        { symbol: "(⸝⸝ᵕᴗᵕ⸝⸝)", name: "Small Face" },
+        { symbol: "💞᪳᪳᪳", name: "Heart Spiral" },
+        { symbol: "(◕‿◕✿)", name: "Flower Eye" },
+        { symbol: "(≧◡≦) ♡", name: "Happy Heart" },
+        { symbol: "(❀ᵕᴗᵕ)", name: "Flower Smile" },
+        { symbol: "(｡•́‿•̀｡)♡", name: "Sad Happy Face" },
+        { symbol: "୧⍤⃝🌸", name: "Flower Accent" },
+        { symbol: "୧⍤⃝✨", name: "Sparkle Accent" },
+        { symbol: "୧⍤⃝💞", name: "Heart Accent" },
+        { symbol: "୧⍤⃝🌷", name: "Tulip Accent" },
+        { symbol: "୧⍤⃝❤️", name: "Red Heart Accent" },
+        { symbol: "୧⍤⃝🌺", name: "Hibiscus Accent" },
+        { symbol: "𐚂", name: "Ancient Glyph 2" },
+        { symbol: "𐚃", name: "Ancient Glyph 3" },
+        { symbol: "𐚄", name: "Ancient Glyph 4" },
+        { symbol: "𐚅", name: "Ancient Glyph 5" },
+        { symbol: "𐚆", name: "Ancient Glyph 6" },
+        { symbol: "𐚇", name: "Ancient Glyph 7" },
+        { symbol: "𐚈", name: "Ancient Glyph 8" },
+        { symbol: "💓᪲᪲", name: "Beating Hearts" },
+        { symbol: "𐚉", name: "Ancient Glyph 9" },
+        { symbol: "𐚊", name: "Ancient Glyph 10" },
+        { symbol: "𐚋", name: "Ancient Glyph 11" },
+        { symbol: "𐚌", name: "Ancient Glyph 12" },
+        { symbol: "➶➶", name: "Double Feather" },
+        { symbol: "୧⍤⃝💖", name: "Sparkling Heart Accent" },
+        { symbol: "💝᪲᪲᪲", name: "Ribbon Heart" },
+        { symbol: "𖨆", name: "Ornate Symbol 2" },
+        { symbol: "୧⍤⃝🩷", name: "Pink Heart Accent" },
+        { symbol: "୧⍤⃝🍀", name: "Clover Accent" },
+        { symbol: "୧⍤⃝🌼", name: "Flower Accent 2" },
+        { symbol: "𓃠", name: "Animal Hieroglyph" },
+        { symbol: "୧⍤⃝⭐", name: "Star Accent" },
+        { symbol: "୧⍤⃝💗", name: "Pink Heart Accent 2" },
+        { symbol: "୧⍤⃝💮", name: "White Flower Accent" },
+        { symbol: "🦋⃟", name: "Butterfly Symbol" },
+        { symbol: "✿⃟", name: "Flower Symbol" },
+        { symbol: "❀⃟", name: "Flower Symbol 2" },
+        { symbol: "✧⃟", name: "Sparkle Symbol" },
+        { symbol: "☆⃟", name: "Star Symbol 2" },
+        { symbol: "✦⃟", name: "Diamond Symbol" },
+        { symbol: "❣⃟", name: "Heart Exclamation" },
+        { symbol: "✩⃟", name: "Star Symbol 3" },
+        { symbol: "✺⃟", name: "Star Flower" },
+        { symbol: "❁⃟", name: "Flower Symbol 3" },
+        { symbol: "❇⃟", name: "Sparkle Symbol 2" },
+        { symbol: "✷⃟", name: "Eight Point Star" },
+        { symbol: "💐⃟", name: "Bouquet Symbol" },
+        { symbol: "🌸⃟", name: "Cherry Blossom Symbol" },
+        { symbol: "🩷⃟", name: "Pink Heart Symbol" },
+        { symbol: "💖⃟", name: "Sparkle Heart Symbol" },
+        { symbol: "🌙⃟", name: "Moon Symbol" },
+        { symbol: "⭐⃟", name: "Star Symbol 4" },
+        { symbol: "🪽⃟", name: "Wings Symbol" },
+        { symbol: "🐾⃟", name: "Paw Prints Symbol" },
+        { symbol: "🪷⃟", name: "Lotus Symbol" },
+        { symbol: "🎀⃟", name: "Ribbon Symbol" },
+        { symbol: "୧⍤⃝🌟", name: "Glowing Star Accent" },
+        { symbol: "୧⍤⃝🪻", name: "Violet Accent" },
+        { symbol: "𖧷", name: "Ornament" },
+        { symbol: "୧⍤⃝🌹", name: "Rose Accent" },
+        { symbol: "୧⍤⃝💛", name: "Yellow Heart Accent" },
+        { symbol: "୧⍤⃝🦋", name: "Butterfly Accent" },
+        { symbol: "୧⍤⃝🎀", name: "Ribbon Accent" },
+        { symbol: "𝄟", name: "Music Symbol" },
+        { symbol: "𐙚", name: "Ornate Symbol 3" },
+        { symbol: "×᷼×ㅤ", name: "Cross Pattern" },
+        { symbol: "•͜•", name: "Dot Eyes" },
+        { symbol: "𓅫", name: "Bird Hieroglyph" },
+        { symbol: "⛱", name: "Beach Umbrella" },
+        { symbol: "⎚", name: "Clear Symbol" },
+        { symbol: "☻", name: "Black Smiley" },
+        { symbol: "☹︎", name: "Frowning Face" },
+        { symbol: "⌔", name: "Circle Segment" },
+        { symbol: "♨", name: "Hot Springs" },
+        { symbol: "🐞⃝", name: "Ladybug" },
+        { symbol: "🐝⃝", name: "Bee" },
+        { symbol: "⚡︎", name: "Lightning" },
+        { symbol: "𓄧", name: "Egyptian Symbol 2" },
+        { symbol: "˚", name: "Ring Above" },
+        { symbol: "⬅", name: "Left Arrow" },
+        { symbol: "☑", name: "Check Box" },
+        { symbol: "⊹", name: "Star Asterisk" },
+        { symbol: "⟲", name: "Anticlockwise" },
+        { symbol: "▶", name: "Play Button" },
+        { symbol: "⁰¹", name: "Superscript 01" },
+        { symbol: "₊", name: "Subscript Plus" },
+        { symbol: "♾", name: "Infinity" },
+        { symbol: "⛷", name: "Skier" },
+        { symbol: ":)", name: "Smiley" },
+        { symbol: "⋆", name: "Star" },
+        { symbol: "ꤪꤨꤪ", name: "Kayah Li" },
+        { symbol: "⁷⁷⁷", name: "Triple Seven" },
+        { symbol: ".ᐟ", name: "Canadian Syllabics" },
+        { symbol: "°", name: "Degree" },
+    { symbol: "☃︎", name: "Snowman" }
+  ]
+};
+
+// ==================== EASY-TO-USE FUNCTIONS ====================
+
+window.addStyle = function(category, styleName, prefix, suffix, charMap) {
+  if (!stylesByCategory[category]) {
+    stylesByCategory[category] = [];
+  }
+  
+  const exists = stylesByCategory[category].find(s => s.name === styleName);
+  if (exists) {
+    showToast(`Style "${styleName}" already exists in ${category}`);
+    return false;
+  }
+  
+  const newStyle = {
+    name: styleName,
+    prefix: prefix || "",
+    suffix: suffix || "",
+    map: charMap
+  };
+  
+  stylesByCategory[category].push(newStyle);
+  showToast(`New style "${styleName}" added to ${category}`);
+  
+  if (currentFilter === category) {
+    const name = document.getElementById('nameInput').value.trim();
+    if (name) {
+      generateStyles();
+    }
+  }
+  
+  return true;
+};
+
+window.addSuggestion = function(category, suggestionText) {
+  if (!suggestionsData[category]) {
+    suggestionsData[category] = [];
+  }
+  
+  suggestionsData[category].push(suggestionText);
+  showToast(`New suggestion added to ${category}`);
+  
+  if (suggestionsVisible && currentFilter === category) {
+    loadSuggestions();
+  }
+  
+  return true;
+};
+
+window.addSymbols = function(symbolCategory, symbol, name) {
+  if (!symbolsData[symbolCategory]) {
+    symbolsData[symbolCategory] = [];
+  }
+  
+  symbolsData[symbolCategory].push({ symbol: symbol, name: name });
+  showToast(`New symbol "${name}" added to ${symbolCategory}`);
+  
+  const modal = document.getElementById('symbolModal');
+  if (modal.classList.contains('show')) {
+    loadModalTabs();
+  }
+  
+  return true;
+};
+
+// ==================== CORE FUNCTIONS ====================
+
+function convert(name, map) {
+  return name.split("").map(ch => {
+    if (map[ch] !== undefined) {
+      return map[ch];
+    }
+    
+    const lowerChar = ch.toLowerCase();
+    if (map[lowerChar] !== undefined) {
+      return map[lowerChar];
+    }
+    
+    const upperChar = ch.toUpperCase();
+    if (map[upperChar] !== undefined) {
+      return map[upperChar];
+    }
+    
+    return ch;
+  }).join("");
+}
+
+function generateStyles() {
+  const name = document.getElementById('nameInput').value.trim();
+  const result = document.getElementById('result');
+  const resultsCount = document.getElementById('resultsCount');
+  
+  result.innerHTML = "";
+  
+  if (!name) {
+    result.innerHTML = `
+      <div class="empty-state">
+        <i class="fas fa-magic"></i>
+        <p>Enter your name to see magical styles!</p>
+      </div>
+    `;
+    resultsCount.textContent = "0";
+    return;
+  }
+  
+  const styles = stylesByCategory[currentFilter] || [];
+  
+  if (styles.length === 0) {
+    result.innerHTML = `
+      <div class="empty-state">
+        <i class="fas fa-exclamation-circle"></i>
+        <p>No styles available for this category.</p>
+      </div>
+    `;
+    resultsCount.textContent = "0";
+    return;
+  }
+  
+  const shuffled = [...styles].sort(() => Math.random() - 0.5);
+  
+  shuffled.forEach(style => {
+    const styled = style.prefix + convert(name, style.map) + style.suffix;
+    const escapedStyled = styled.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    
+    const div = document.createElement('div');
+    div.className = `style-box ${currentFilter}`;
+    div.innerHTML = `
+      <span class="style-text">${styled}</span>
+      <button class="copy-btn" onclick="copyText('${escapedStyled}', this)">
+        <i class="fas fa-copy"></i> Copy
+      </button>
+    `;
+    result.appendChild(div);
+  });
+  
+  resultsCount.textContent = styles.length;
+}
+
+function selectCategory(type) {
+  currentFilter = type;
+  
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.classList.remove('active');
+    if (btn.getAttribute('data-tab') === type) {
+      btn.classList.add('active');
+    }
+  });
+  
+  if (suggestionsVisible) {
+    toggleSuggestions();
+  }
+  
+  const name = document.getElementById('nameInput').value.trim();
+  if (name) {
+    generateStyles();
+  } else {
+    document.getElementById('result').innerHTML = `
+      <div class="empty-state">
+        <i class="fas fa-magic"></i>
+        <p>Enter your name to see ${type} styles!</p>
+      </div>
+    `;
+    document.getElementById('resultsCount').textContent = "0";
+  }
+}
+
+function toggleSuggestions() {
+  const suggestionsSection = document.getElementById('suggestionsSection');
+  const toggleBtn = document.querySelector('.toggle-suggestions-btn');
+  
+  if (!suggestionsVisible) {
+    suggestionsSection.classList.add('show');
+    loadSuggestions();
+    toggleBtn.innerHTML = '<i class="fas fa-eye-slash"></i> Hide Suggestions';
+    suggestionsVisible = true;
+  } else {
+    suggestionsSection.classList.remove('show');
+    toggleBtn.innerHTML = '<i class="fas fa-lightbulb"></i> Show Name Suggestions';
+    suggestionsVisible = false;
+  }
+}
+
+function loadSuggestions() {
+  const suggestionsSection = document.getElementById('suggestionsSection');
+  const currentSuggestions = suggestionsData[currentFilter] || [];
+  
+  if (currentSuggestions.length === 0) {
+    suggestionsSection.innerHTML = `
+      <h3 class="suggestions-title"><i class="fas fa-lightbulb"></i> ${currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1)} Name Suggestions</h3>
+      <p class="no-suggestions">No suggestions available.</p>
+    `;
+    return;
+  }
+  
+  let html = `<h3 class="suggestions-title"><i class="fas fa-lightbulb"></i> ${currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1)} Name Suggestions</h3>`;
+  html += `<div class="suggestions-grid">`;
+  
+  currentSuggestions.forEach(suggestion => {
+    const escapedSuggestion = suggestion.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    html += `
+      <div class="suggestion-box ${currentFilter}">
+        <span class="suggestion-text">${suggestion}</span>
+        <button class="suggestion-copy-btn" onclick="copyText('${escapedSuggestion}', this)">
+          <i class="fas fa-copy"></i> Copy
+        </button>
+      </div>
+    `;
+  });
+  
+  html += `</div>`;
+  suggestionsSection.innerHTML = html;
+}
+
+function loadModalTabs() {
+  const modalTabs = document.getElementById('modalTabs');
+  let html = '';
+  
+  Object.keys(symbolsData).forEach((category, index) => {
+    const activeClass = index === 0 ? 'active' : '';
+    html += `<button class="modal-tab-btn ${activeClass}" onclick="openSymbolTab('${category}')">${category.charAt(0).toUpperCase() + category.slice(1)}</button>`;
+  });
+  
+  modalTabs.innerHTML = html;
+  
+  const firstCategory = Object.keys(symbolsData)[0];
+  if (firstCategory) {
+    openSymbolTab(firstCategory);
+  }
+}
+
+function openSymbolTab(category) {
+  document.querySelectorAll('.modal-tab-btn').forEach(btn => {
+    btn.classList.remove('active');
+    if (btn.textContent.toLowerCase().includes(category.toLowerCase())) {
+      btn.classList.add('active');
+    }
+  });
+  
+  const symbolsGrid = document.getElementById('symbolsGrid');
+  const symbols = symbolsData[category] || [];
+  
+  if (symbols.length === 0) {
+    symbolsGrid.innerHTML = '<p class="no-symbols">No symbols available.</p>';
+    return;
+  }
+  
+  let html = '';
+  symbols.forEach(symbol => {
+    const escapedSymbol = symbol.symbol.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    html += `
+      <div class="symbol-item">
+        <div class="symbol-display">${symbol.symbol}</div>
+        <div class="symbol-name">${symbol.name}</div>
+        <div class="symbol-actions">
+          <button class="symbol-insert-btn" onclick="insertSymbol('${escapedSymbol}')">
+            <i class="fas fa-plus"></i> Insert
+          </button>
+          <button class="symbol-copy-btn" onclick="copyText('${escapedSymbol}', this)">
+            <i class="fas fa-copy"></i> Copy
+          </button>
+        </div>
+      </div>
+    `;
+  });
+  
+  symbolsGrid.innerHTML = html;
+}
+
+function insertSymbol(symbol) {
+  const nameInput = document.getElementById('nameInput');
+  const currentValue = nameInput.value;
+  const cursorPos = nameInput.selectionStart;
+  
+  nameInput.value = currentValue.substring(0, cursorPos) + symbol + currentValue.substring(cursorPos);
+  nameInput.selectionStart = nameInput.selectionEnd = cursorPos + symbol.length;
+  nameInput.dispatchEvent(new Event('input'));
+  closeSymbolModal();
+}
+
+function copyText(text, buttonElement = null) {
+  navigator.clipboard.writeText(text)
+    .then(() => {
+      if (buttonElement) {
+        const originalText = buttonElement.innerHTML;
+        const originalClass = buttonElement.className;
+        
+        buttonElement.innerHTML = '<i class="fas fa-check"></i> Copied!';
+        buttonElement.classList.add('copied');
+        
+        setTimeout(() => {
+          buttonElement.innerHTML = originalText;
+          buttonElement.className = originalClass;
+        }, 1500);
+      } else {
+        showToast('Text copied to clipboard!');
+      }
+    })
+    .catch(err => {
+      console.error('Failed to copy: ', err);
+      showToast('Failed to copy text. Please try again.');
+    });
+}
+
+function showToast(message) {
+  const existingToast = document.querySelector('.toast-message');
+  if (existingToast) {
+    existingToast.remove();
+  }
+  
+  const toast = document.createElement('div');
+  toast.className = 'toast-message';
+  toast.textContent = message;
+  document.body.appendChild(toast);
+  
+  setTimeout(() => {
+    toast.style.animation = 'slideOut 0.3s ease';
+    setTimeout(() => {
+      if (toast.parentNode) {
+        document.body.removeChild(toast);
+      }
+    }, 300);
+  }, 3000);
+}
+
+function toggleTheme() {
+  isDarkTheme = !isDarkTheme;
+  const body = document.body;
+  const themeToggleBtn = document.getElementById('themeToggleBtn');
+  
+  if (isDarkTheme) {
+    body.classList.add('dark-theme');
+    themeToggleBtn.innerHTML = '<i class="fas fa-moon"></i>';
+    localStorage.setItem('theme', 'dark');
+  } else {
+    body.classList.remove('dark-theme');
+    themeToggleBtn.innerHTML = '<i class="fas fa-sun"></i>';
+    localStorage.setItem('theme', 'light');
+  }
+}
+
+function openSymbolModal() {
+  document.getElementById('symbolModal').classList.add('show');
+  loadModalTabs();
+}
+
+function closeSymbolModal() {
+  document.getElementById('symbolModal').classList.remove('show');
+}
+
+// ==================== INITIALIZATION ====================
+
+document.addEventListener('DOMContentLoaded', function() {
+  // Check for saved theme preference
+  const savedTheme = localStorage.getItem('theme');
+  if (savedTheme === 'dark') {
+    isDarkTheme = true;
+    document.body.classList.add('dark-theme');
+    document.getElementById('themeToggleBtn').innerHTML = '<i class="fas fa-moon"></i>';
+  }
+  
+  // Theme toggle button
+  document.getElementById('themeToggleBtn').addEventListener('click', toggleTheme);
+  
+  // Auto-generate when typing
+  document.getElementById('nameInput').addEventListener('input', function() {
+    clearTimeout(nameInputTimer);
+    nameInputTimer = setTimeout(() => {
+      if (this.value.trim().length > 0) {
+        generateStyles();
+      }
+    }, 300);
+  });
+  
+  // Symbol picker button
+  document.getElementById('symbolPickerBtn').addEventListener('click', openSymbolModal);
+  
+  // Scroll to top button
+  const scrollBtn = document.getElementById('scrollToTop');
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > 300) {
+      scrollBtn.classList.add('visible');
+    } else {
+      scrollBtn.classList.remove('visible');
+    }
+  });
+  
+  scrollBtn.addEventListener('click', function() {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  });
+  
+  // Close modal when clicking outside
+  document.getElementById('symbolModal').addEventListener('click', function(e) {
+    if (e.target === this) {
+      closeSymbolModal();
+    }
+  });
+  
+  // Initial load
+  loadModalTabs();
+
+  // ============ YAHAN APNE 112 STYLES ADD KARO ============
+  // Style 1: Combining Ring Style
+  addStyle('font', 'font_combining_ring', '', '', {
+    a: "a͢", b: "b͢", c: "c͢", d: "d͢", e: "e͢", f: "f͢", g: "g͢", h: "h͢", i: "i͢", j: "j͢",
+    k: "k͢", l: "l͢", m: "m͢", n: "n͢", o: "o͢", p: "p͢", q: "q͢", r: "r͢", s: "s͢", t: "t͢",
+    u: "u͢", v: "v͢", w: "w͢", x: "x͢", y: "y͢", z: "z͢",
+    A: "A͢", B: "B͢", C: "C͢", D: "D͢", E: "E͢", F: "F͢", G: "G͢", H: "H͢", I: "I͢", J: "J͢",
+    K: "K͢", L: "L͢", M: "M͢", N: "N͢", O: "O͢", P: "P͢", Q: "Q͢", R: "R͢", S: "S͢", T: "T͢",
+    U: "U͢", V: "V͢", W: "W͢", X: "X͢", Y: "Y͢", Z: "Z͢"
+  });
+
+  // Style 2: Double Struck Circle Style
+  addStyle('font', 'font_double_struck_circle', '', '', {
+    a: "𝕒⃟", b: "𝕓⃟", c: "𝕔⃟", d: "𝕕⃟", e: "𝕖⃟", f: "𝕗⃟", g: "𝕘⃟", h: "𝕙⃟", i: "𝕚⃟", j: "𝕛⃟",
+    k: "𝕜⃟", l: "𝕝⃟", m: "𝕞⃟", n: "𝕟⃟", o: "𝕠⃟", p: "𝕡⃟", q: "𝕢⃟", r: "𝕣⃟", s: "𝕤⃟", t: "𝕥⃟",
+    u: "𝕦⃟", v: "𝕧⃟", w: "𝕨⃟", x: "𝕩⃟", y: "𝕪⃟", z: "𝕫⃟",
+    A: "𝕒⃟", B: "𝕓⃟", C: "𝕔⃟", D: "𝕕⃟", E: "𝕖⃟", F: "𝕗⃟", G: "𝕘⃟", H: "𝕙⃟", I: "𝕚⃟", J: "𝕛⃟",
+    K: "𝕜⃟", L: "𝕝⃟", M: "𝕞⃟", N: "𝕟⃟", O: "𝕠⃟", P: "𝕡⃟", Q: "𝕢⃟", R: "𝕣⃟", S: "𝕤⃟", T: "𝕥⃟",
+    U: "𝕦⃟", V: "𝕧⃟", W: "𝕨⃟", X: "𝕩⃟", Y: "𝕪⃟", Z: "𝕫⃟"
+  });
+
+  // ============ GAMER STYLES ============
+  addStyle('gamer', 'gamer_bold_sans_serif', '', '', {
+    a: "𝙖", b: "𝙗", c: "𝙘", d: "𝙙", e: "𝙚", f: "𝙛", g: "𝙜", h: "𝙝", i: "𝙞", j: "𝙟",
+    k: "𝙠", l: "𝙡", m: "𝙢", n: "𝙣", o: "𝙤", p: "𝙥", q: "𝙦", r: "𝙧", s: "𝙨", t: "𝙩",
+    u: "𝙪", v: "𝙫", w: "𝙬", x: "𝙭", y: "𝙮", z: "𝙯",
+    A: "𝗔", B: "𝗕", C: "𝗖", D: "𝗗", E: "𝗘", F: "𝗙", G: "𝗚", H: "𝗛", I: "𝗜", J: "𝗝",
+    K: "𝗞", L: "𝗟", M: "𝗠", N: "𝗡", O: "𝗢", P: "𝗣", Q: "𝗤", R: "𝗥", S: "𝗦", T: "𝗧",
+    U: "𝗨", V: "𝗩", W: "𝗪", X: "𝗫", Y: "𝗬", Z: "𝗭"
+  });
+
+  // ============ LOVE STYLES ============
+  addStyle('love', 'love_italic', '', '', {
+    a: "𝑎", b: "𝑏", c: "𝑐", d: "𝑑", e: "𝑒", f: "𝑓", g: "𝑔", h: "𝘩", i: "𝑖", j: "𝑗",
+    k: "𝑘", l: "𝑙", m: "𝑚", n: "𝑛", o: "𝑜", p: "𝑝", q: "𝑞", r: "𝑟", s: "𝑠", t: "𝑡",
+    u: "𝑢", v: "𝑣", w: "𝑤", x: "𝑥", y: "𝑦", z: "𝑧",
+    A: "𝐴", B: "𝐵", C: "𝐶", D: "𝐷", E: "𝐸", F: "𝐹", G: "𝐺", H: "𝐻", I: "𝐼", J: "𝐽",
+    K: "𝐾", L: "𝐿", M: "𝑀", N: "𝑁", O: "𝑂", P: "𝑃", Q: "𝑄", R: "𝑅", S: "𝑆", T: "𝑇",
+    U: "𝑈", V: "𝑉", W: "𝑊", X: "𝑋", Y: "𝑌", Z: "𝑍"
+  });
+
+  // ============ FANCY STYLES ============
+  addStyle('fancy', 'fancy_squared', '', '', {
+    a: "🄰", b: "🄱", c: "🄲", d: "🄳", e: "🄴", f: "🄵", g: "🄶", h: "🄷", i: "🄸", j: "🄹",
+    k: "🄺", l: "🄻", m: "🄼", n: "🄽", o: "🄾", p: "🄿", q: "🅀", r: "🅁", s: "🅂", t: "🅃",
+    u: "🅄", v: "🅅", w: "🅆", x: "🅇", y: "🅈", z: "🅉",
+    A: "🄰", B: "🄱", C: "🄲", D: "🄳", E: "🄴", F: "🄵", G: "🄶", H: "🄷", I: "🄸", J: "🄹",
+    K: "🄺", L: "🄻", M: "🄼", N: "🄽", O: "🄾", P: "🄿", Q: "🅀", R: "🅁", S: "🅂", T: "🅃",
+    U: "🅄", V: "🅅", W: "🅆", X: "🅇", Y: "🅈", Z: "🅉"
+  });
+
+  // ============ FONT STYLES ============
+  addStyle('font', 'font_sans_serif_italic', '', '', {
+    a: "𝘢", b: "𝘣", c: "𝘤", d: "𝘥", e: "𝘦", f: "𝘧", g: "𝘨", h: "𝘩", i: "𝘪", j: "𝘫",
+    k: "𝘬", l: "𝘭", m: "𝘮", n: "𝘯", o: "𝘰", p: "𝘱", q: "𝘲", r: "𝘳", s: "𝘴", t: "𝘵",
+    u: "𝘶", v: "𝘷", w: "𝘸", x: "𝘹", y: "𝘺", z: "𝘻",
+    A: "𝘈", B: "𝘉", C: "𝘊", D: "𝘋", E: "𝘌", F: "𝘍", G: "𝘎", H: "𝘏", I: "𝘐", J: "𝘑",
+    K: "𝘒", L: "𝘓", M: "𝘔", N: "𝘕", O: "𝘖", P: "𝘗", Q: "𝘘", R: "𝘙", S: "𝘚", T: "𝘛",
+    U: "𝘜", V: "𝘝", W: "𝘞", X: "𝘟", Y: "𝘠", Z: "𝘡"
+  });
+  // ... yahan baaki ke 110 styles add karo ...
+  // Optional success message
+  // showToast("All styles loaded successfully!");
+
+   // Initial load
+  // Style 4: Egyptian Bold with Decoration
+  addStyle('love', 'love_egyptian_bold', '𓆜⋆˚࿔⊹ ࣪', ' 𓆝⋆.˚﹏𓊝₊˚⊹', {
+    a: "ᗩ", b: "ᗷ", c: "ᑕ", d: "ᗪ", e: "ᗴ", f: "ᖴ", g: "Ꮐ", h: "ᕼ", i: "Ꭵ", j: "ᒍ",
+    k: "Ꮶ", l: "Ꮮ", m: "ᗰ", n: "ᑎ", o: "ᗝ", p: "ᑭ", q: "ᑫ", r: "ᖇ", s: "ᔕ", t: "ᖶ",
+    u: "ᑌ", v: "ᐯ", w: "ᗯ", x: "᙭", y: "Ꭹ", z: "ᘔ",
+    A: "ᗩ", B: "ᗷ", C: "ᑕ", D: "ᗪ", E: "ᗴ", F: "ᖴ", G: "Ꮐ", H: "ᕼ", I: "Ꭵ", J: "ᒍ",
+    K: "Ꮶ", L: "Ꮮ", M: "ᗰ", N: "ᑎ", O: "ᗝ", P: "ᑭ", Q: "ᑫ", R: "ᖇ", S: "ᔕ", T: "ᖶ",
+    U: "ᑌ", V: "ᐯ", W: "ᗯ", X: "᙭", Y: "Ꭹ", Z: "ᘔ"
+  });
+
+  // Style 5: Circle with Underline Accent
+  addStyle('love', 'love_circle_accent', '̤̮ ', ' ✔', {
+    a: "🅐 ̤̮", b: "🅑 ̤̮", c: "🅒 ̤̮", d: "🅓 ̤̮", e: "🅔 ̤̮", f: "🅕 ̤̮", g: "🅖 ̤̮", h: "🅗 ̤̮", i: "🅘 ̤̮", j: "🅙 ̤̮",
+    k: "🅚 ̤̮", l: "🅛 ̤̮", m: "🅜 ̤̮", n: "🅝 ☻", o: "🅞 ̤̮", p: "🅟 ̤̮", q: "🅠 ̤̮", r: "🅡 ̤̮", s: "🅢 ̤̮", t: "🅣 ̤̮",
+    u: "🅤 ̤̮", v: "🅥 ̤̮", w: "🅦 ̤̮", x: "🅧 ̤̮", y: "🅨 ̤̮", z: "🅩 ̤̮",
+    A: "🅐 ̤̮", B: "🅑 ̤̮", C: "🅒 ̤̮", D: "🅓 ̤̮", E: "🅔 ̤̮", F: "🅕 ̤̮", G: "🅖 ̤̮", H: "🅗 ̤̮", I: "🅘 ̤̮", J: "🅙 ̤̮",
+    K: "🅚 ̤̮", L: "🅛 ̤̮", M: "🅜 ̤̮", N: "🅝 ☻", O: "🅞 ̤̮", P: "🅟 ̤̮", Q: "🅠 ̤̮", R: "🅡 ̤̮", S: "🅢 ̤̮", T: "🅣 ̤̮",
+    U: "🅤 ̤̮", V: "🅥 ̤̮", W: "🅦 ̤̮", X: "🅧 ̤̮", Y: "🅨 ̤̮", Z: "🅩 ̤̮"
+  });
+
+  // Style 6: Double Struck with Star Decoration
+  addStyle('love', 'love_double_struck_stars', '⊹˚₊𐙚', '𐙚₊˚⊹࿐', {
+    a: "𝕒", b: "𝕓", c: "𝕔", d: "𝕕", e: "𝕖", f: "𝕗", g: "𝕘", h: "𝕙", i: "𝕚", j: "𝕛",
+    k: "𝕜", l: "𝕝", m: "𝕞", n: "𝕟", o: "𝕠", p: "𝕡", q: "𝕢", r: "𝕣", s: "𝕤", t: "𝕥",
+    u: "𝕦", v: "𝕧", w: "𝕨", x: "𝕩", y: "𝕪", z: "𝕫",
+    A: "𝔸", B: "𝔹", C: "ℂ", D: "𝔻", E: "𝔼", F: "𝔽", G: "𝔾", H: "ℍ", I: "𝕀", J: "𝕁",
+    K: "𝕂", L: "𝕃", M: "𝕄", N: "ℕ", O: "𝕆", P: "ℙ", Q: "ℚ", R: "ℝ", S: "𝕊", T: "𝕋",
+    U: "𝕌", V: "𝕍", W: "𝕎", X: "𝕏", Y: "𝕐", Z: "ℤ"
+  });
+
+  // Style 7: Bold Sans Serif with Cross Decoration
+  addStyle('love', 'love_bold_sans_serif_cross', '—͟͞͞✰', 'ᯓ✈︎⋆ˎˊ˗', {
+    a: "𝗮", b: "𝗯", c: "𝗰", d: "𝗱", e: "𝗲", f: "𝗳", g: "𝗴", h: "𝗵", i: "𝗶", j: "𝗷",
+    k: "𝗸", l: "𝗹", m: "𝗺", n: "𝗻", o: "𝗼", p: "𝗽", q: "𝗾", r: "𝗿", s: "𝘀", t: "𝘁",
+    u: "𝘂", v: "𝘃", w: "𝘄", x: "𝘅", y: "𝘆", z: "𝘇",
+    A: "𝗔", B: "𝗕", C: "𝗖", D: "𝗗", E: "𝗘", F: "𝗙", G: "𝗚", H: "𝗛", I: "𝗜", J: "𝗝",
+    K: "𝗞", L: "𝗟", M: "𝗠", N: "𝗡", O: "𝗢", P: "𝗣", Q: "𝗤", R: "𝗥", S: "𝗦", T: "𝗧",
+    U: "𝗨", V: "𝗩", W: "𝗪", X: "𝗫", Y: "𝗬", Z: "𝗭"
+  });
+
+  // Style 8: Superscript with Cross Decoration
+  addStyle('love', 'love_superscript_cross', '—͟͞͞✞ ', ' ✞𓂃✍︎', {
+    a: "ᵃ", b: "ᵇ", c: "ᶜ", d: "ᵈ", e: "ᵉ", f: "ᶠ", g: "ᵍ", h: "ʰ", i: "ⁱ", j: "ʲ",
+    k: "ᵏ", l: "ˡ", m: "ᵐ", n: "ⁿ", o: "ᵒ", p: "ᵖ", q: "ᑫ", r: "ʳ", s: "ˢ", t: "ᵗ",
+    u: "ᵘ", v: "ᵛ", w: "ʷ", x: "ˣ", y: "ʸ", z: "ᶻ",
+    A: "ᴬ", B: "ᴮ", C: "ᶜ", D: "ᴰ", E: "ᴱ", F: "ᶠ", G: "ᴳ", H: "ᴴ", I: "ᴵ", J: "ᴶ",
+    K: "ᴷ", L: "ᴸ", M: "ᴹ", N: "ᴺ", O: "ᴼ", P: "ᴾ", Q: "ᵠ", R: "ᴿ", S: "ˢ", T: "ᵀ",
+    U: "ᵁ", V: "ⱽ", W: "ᵂ", X: "ˣ", Y: "ʸ", Z: "ᶻ"
+  });
+  
+  // Style 1: Greek with Flower Decoration
+  addStyle('fancy', 'fancy_greek_flower', '𐙚✿', '𐙚✿.࿐', {
+    a: "Δ", b: "β", c: "C", d: "Đ", e: "Σ", f: "Ϝ", g: "Ꮆ", h: "Ħ", i: "I", j: "J",
+    k: "К", l: "Ꮭ", m: "M", n: "П", o: "Ø", p: "Ƥ", q: "Ǫ", r: "Ŗ", s: "Ѕ", t: "Ͳ",
+    u: "Ц", v: "Ѵ", w: "Ш", x: "X", y: "Ψ", z: "Ẕ",
+    A: "Δ", B: "β", C: "C", D: "Đ", E: "Σ", F: "Ϝ", G: "Ꮆ", H: "Ħ", I: "I", J: "J",
+    K: "К", L: "Ꮭ", M: "M", N: "П", O: "Ø", P: "Ƥ", Q: "Ǫ", R: "Ŗ", S: "Ѕ", T: "Ͳ",
+    U: "Ц", V: "Ѵ", W: "Ш", X: "X", Y: "Ψ", Z: "Ẕ"
+  });
+
+  // Style 2: Circled with Butterfly Decoration
+  addStyle('fancy', 'fancy_circled_butterfly', '༒➤⃝🦋', '➤⃝🦋༒', {
+    a: "ⓐ", b: "ⓑ", c: "ⓒ", d: "ⓓ", e: "ⓔ", f: "ⓕ", g: "ⓖ", h: "ⓗ", i: "ⓘ", j: "ⓙ",
+    k: "ⓚ", l: "ⓛ", m: "ⓜ", n: "ⓝ", o: "ⓞ", p: "ⓟ", q: "ⓠ", r: "ⓡ", s: "ⓢ", t: "ⓣ",
+    u: "ⓤ", v: "ⓥ", w: "ⓦ", x: "ⓧ", y: "ⓨ", z: "ⓩ",
+    A: "Ⓐ", B: "Ⓑ", C: "Ⓒ", D: "Ⓓ", E: "Ⓔ", F: "Ⓕ", G: "Ⓖ", H: "Ⓗ", I: "Ⓘ", J: "Ⓙ",
+    K: "Ⓚ", L: "Ⓛ", M: "Ⓜ", N: "Ⓝ", O: "Ⓞ", P: "Ⓟ", Q: "Ⓠ", R: "Ⓡ", S: "Ⓢ", T: "Ⓣ",
+    U: "Ⓤ", V: "Ⓥ", W: "Ⓦ", X: "Ⓧ", Y: "Ⓨ", Z: "Ⓩ"
+  });
